@@ -46,6 +46,12 @@ approved_products = get_approved_products()
 verified_df = pd.read_csv("verified.csv").sort_values(by="Product")
 verified_df.to_csv("verified.csv", index=False)
 verified_products = set(verified_df["Product"].str.strip())
+verified_products = sorted(
+    [name for name in verified_products if name in approved_products]
+)
+
+verified_df = pd.DataFrame(verified_products, columns=["Product"])
+verified_df.to_csv("verified.csv", index=False)
 
 unverified_products = sorted(
     [name for name in approved_products if name not in verified_products],
