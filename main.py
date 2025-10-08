@@ -24,7 +24,12 @@ def get_approved_products(limit=500, offset=0):
         if "Template:" in text or "User:" in text:
             continue
 
-        if text in ("Allowed Domains", "Calculator version", "Methodology"):
+        if text in (
+            "Allowed Domains",
+            "Calculator version",
+            "Main Page",
+            "Methodology",
+        ):
             continue
 
         products.append(text)
