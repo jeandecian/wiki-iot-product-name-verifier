@@ -1,4 +1,5 @@
 from bs4 import BeautifulSoup
+import pandas as pd
 import requests
 
 WIKI_IOT_BASE_URL = "https://fehmijaafar.net/wiki-iot/index.php"
@@ -34,4 +35,15 @@ def get_approved_products(limit=500, offset=0):
     return products
 
 
-print(get_approved_products())
+approved_products = get_approved_products()
+
+verified_df = pd.read_csv("verified.csv").sort_values(by="Product")
+verified_df.to_csv("verified.csv", index=False)
+verified_products = set(verified_df["Product"].str.strip())
+
+unverified_products = [
+    name for name in approved_products if name not in verified_products
+]
+
+unverified_df = pd.DataFrame(unverified_products, columns=["Product"])
+unverified_df.to_csv("unverified.csv", index=False)
