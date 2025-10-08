@@ -23,8 +23,6 @@ Alienware M17 R3
 Alienware M17 R4
 Alienware M17 R5
 Alienware M17 R6
-Alienware m16 R2
-Alienware m18 R2
 Alienware x15 R2
 Alienware x16
 Alienware x17 R1
@@ -69,24 +67,27 @@ Apple iPhone 8
 Apple iPhone 8 Plus
 Apple iPhone XS Max
 Arlo Pro 4
-Arlo Pro 5S 2K Camera
 Arlo Ultra 2
 Avatr 11
 Avatr 12
 Axon 40 Ultra
 Axon 50 Ultra
 Axon 60 Ultra
-BLU BOLD K50
 BLU Bold N3
 BLU F5 5G
 BLU G64
 BLU G64L
 BLU G84
+BYD Han
 BlackBerry Bold 9000
-BlackBerry KEY2
 BlackBerry Passport
+Bose Frames Tenor
+Brazen Connected Brewer GRT20C01CMC
+Cadillac Lyriq
+Canon EOS R1
 Canon EOS R3
 Canon EOS R5
+Canon EOS R50
 Canon PIXMA TR160
 DJI Flip
 DJI Inspire 3
@@ -99,7 +100,6 @@ DJI Osmo Action 3
 DJI Osmo Action 4
 DJI Osmo Nano
 Dell G16
-Dell Inspiron 13 7000
 Dell Inspiron 16
 Dell Wyse 5070 Thin
 Dell XPS 13 2-in-1
@@ -137,11 +137,17 @@ GPD Pocket 2
 GPD Win 3
 Garmin Fenix 7
 Garmin Fenix 7 Pro
+Garmin Lily 2 Active
+Garmin VIRB Ultra 30
+Garmin VIRB XE
+Garmin Venu 3
+Garmin Venu Sq 2 Music
 Geely Galaxy A7
 Geely Galaxy E5
 Geely Galaxy E8
 Geely Galaxy L6
 Geely Galaxy L7
+GoPro Hero 10
 Google Pixel 6
 Google Pixel 8
 Google Pixel 9
@@ -171,6 +177,7 @@ Honeywell Lyric T6 Pro WiFi Thermostat TH6320WF2003
 Honeywell Lyric Thermostat T5
 Honeywell PM65
 Honeywell PX240S
+IRobot Roomba e5 (5150)
 Insta360 Ace Pro
 Insta360 Air
 Insta360 Go 2
@@ -183,8 +190,11 @@ Insta360 One X2
 Insta360 Pro 2
 Insta360 Titan
 JBL Charge 5
+JBL Everest 310
 JBL Flip 5
 JBL Wave Beam
+Jabra Elite 5
+June Oven 3
 Kreta V11V
 Kreta V200
 Kreta Zeus 1
@@ -274,17 +284,31 @@ OPPO Find X7
 OPPO Find X8
 OPPO Find X8 Pro
 OPPO Find X8 Pro Satellite Edition
+OPPO Reno 11
+OPPO Reno 11 5G
+OPPO Reno 12 F
+OPPO Reno 12 Pro
+OPPO Reno 6 Pro
+OPPO Reno 6 Pro+
+OPPO Watch 3
 OnePlus 11
 OnePlus 12
 OnePlus 7
 OnePlus 8 Pro
 OnePlus 8T
+OnePlus Ace 2 (PHK110)
+OnePlus Ace 3
+OnePlus Ace 3 Pro
 OnePlus Nord 2
 Orange Pi 5 Plus
 Panasonic EAH-AZ100-S
 Panasonic EAH-AZ40M2
 Panasonic EAH-AZ80-S
 Panasonic Z95B
+Purism Librem 11
+Purism Librem 14
+Raspberry Pi 3
+Raspberry Pi 4
 Raspberry Pi 4 Model B
 Raspberry Pi 5
 Raspberry Pi Zero W
@@ -322,26 +346,67 @@ Samsung RF27T Refrigerator
 Samsung SHP-DR718
 Samsung SmartThings Hub
 Smartisan T1
+Sonos Era 100 (2023)
+Sonos Era 300
+Sonos One
+Sonos One SL
 Sony BRAVIA 3 (K-75S30)
 Sony BRAVIA 5 (K-75XR50)
 Sony BRAVIA 7 (K-75XR70)
 Sony BRAVIA 8 (K-55XR80)
+Sony BRAVIA 9
+Sony BRAVIA XR (75X95L)
+Sony LinkBuds Fit
+Sony LinkBuds Open
+Sony PlayStation 3 Ultra Slim
+Sony PlayStation 4
+Sony PlayStation 4 Pro
+Sony PlayStation 4 Slim
+Sony PlayStation 5
+Sony PlayStation Vita
+Sony WH-1000XM4
+Sony WH-1000XM5
+Sony WH-CH720N
+Sony WI-C200
+Sony Xperia 1
+Sony Xperia 1 IV
+TP-Link Archer AX50 Router
 TP-Link Archer AX6000
+TP-Link ER7206 Router
+TP-Link Omada ER605 Router
+TP-Link TL-WR940N Router
 Tecno Camon 20
 Tecno Camon 20 Plus
 Tecno Camon 20 Pro
 Tecno Camon 30
 Tecno Camon 30 Pro
 Tesla Model 3
+Tesla Model S
+Tesla Model X
+Tesla Model Y
 Toyota Allion
 Toyota Camry
 Toyota Highlander
 Toyota RAV4
 Toyota Venza
 Toyota bZ3
+Vivo S19
+Vivo V7
 Vivo Watch 3
+Vivo X100
+Vivo X100s Pro
+Vivo X200
+Vivo X200 Pro Mini
 Vivo X27
+Vivo X50
+Vivo X50 Pro
+Vivo X60
+Vivo X70
+Vivo X80
+Vivo X90
 Vivo X90 Pro
+Vivo Y300 Pro
+Vivo Y50t
 Vivo Y93
 Vivo iQOO 11S
 Vivo iQOO 12
@@ -353,11 +418,15 @@ Vivo iQOO Neo8
 Vivo iQOO Neo9
 Vivo iQOO Watch GT
 Vivo iQOO Z9
+Wemo Mini WiFi Smart Plug F7C063
+Wiko Lenny 2
+Withings BPM Connect Wi-Fi Smart Blood Pressure Monitor
 XPeng G6
 XPeng G7
 XPeng G9
 XPeng P7i
 Xiaomi AirDots Series
+Xiaomi Book 16
 Xiaomi Book Pro 14
 Xiaomi Book Pro 16
 Xiaomi Civi 2
@@ -378,10 +447,21 @@ Xiaomi Mi 13
 Xiaomi Mi 13 Ultra
 Xiaomi Mi 14
 Xiaomi Mi 14 Ultra
+Xiaomi Mi 14T Pro
 Xiaomi Mi 15
+Xiaomi Mi 6 MCE16
 Xiaomi Mi 8
+Xiaomi Mi Band 5
+Xiaomi Mi Band 6
+Xiaomi Mi Band 9 Pro
+Xiaomi Mi Notebook Pro 15 R5
 Xiaomi Mi Smart Band 6
 Xiaomi Mi Smart Band 7
+Xiaomi Mi Smart Band 8
+Xiaomi Mi Smart Band 8 Pro
+Xiaomi Mi Smart Band 9
+Xiaomi Mi True Wireless Earbuds 2C
+Xiaomi Outdoor Camera AW300
 Xiaomi POCO C51
 Xiaomi POCO C55
 Xiaomi POCO C65
@@ -393,17 +473,53 @@ Xiaomi POCO X4 Pro 5G
 Xiaomi POCO X5
 Xiaomi POCO X6 Neo 5G
 Xiaomi POCO X6 Pro 5G
+Xiaomi Pad 5
+Xiaomi Pad 6
+Xiaomi Pad 6S Pro
+Xiaomi Rechargeable Mini Fan
 Xiaomi Redmi 10C
 Xiaomi Redmi 12C
+Xiaomi Redmi 1S
 Xiaomi Redmi 2
 Xiaomi Redmi 5 Plus
 Xiaomi Redmi 9A
 Xiaomi Redmi Book 14
+Xiaomi Redmi K20
+Xiaomi Redmi K30
+Xiaomi Redmi K40
 Xiaomi Redmi K40 Pro
 Xiaomi Redmi K50
 Xiaomi Redmi K60
+Xiaomi Redmi K60 Pro
 Xiaomi Redmi K70
+Xiaomi Redmi K70 Pro
+Xiaomi Redmi K70 Ultra
+Xiaomi Redmi K70E
+Xiaomi Redmi Note 10 Pro
+Xiaomi Redmi Note 10S
+Xiaomi Redmi Note 11 Pro
+Xiaomi Redmi Note 11T Pro
+Xiaomi Redmi Note 12 Turbo
+Xiaomi Redmi Note 13
+Xiaomi Redmi Note 14
+Xiaomi Redmi Note 14 Pro+
+Xiaomi Redmi Note 8 Pro
+Xiaomi Redmi Pad Pro
+Xiaomi RedmiBook Pro 16
+Xiaomi Robot Vacuum S20 Plus
+Xiaomi Router AX3200
+Xiaomi Router BE6500 Pro
+Xiaomi SU7
+Xiaomi Smart Air Purifier 4 Compact
+Xiaomi Smart Speaker X1
+Xiaomi Sound
+Xiaomi Watch S3
+Xiaomi Watch S4 Sport
+Xiaomi Yeelight YLXD50YL
+Yale WIPC-301W (IP Camera 720p)
 Yi Home Camera
+Yi Technology Yi Home Camera (i27US)
 Yummly Smart Thermometer YTE000W5KW
 Zeekr 001
 Zeekr 007
+Zipato Smart Hubs
