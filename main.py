@@ -27,6 +27,7 @@ def get_approved_products(limit=500, offset=0):
         if text in (
             "Allowed Domains",
             "Calculator version",
+            "Grade Calculator",
             "Main Page",
             "Methodology",
         ):
