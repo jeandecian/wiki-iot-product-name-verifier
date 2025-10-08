@@ -19,6 +19,7 @@ def get_approved_products(limit=500, offset=0):
     products = []
     for tag in soup.find("ol", class_="special").find_all("li"):
         text = tag.text
+        text = text.split(" (revision")[0]
 
         if "Template:" in text or "User:" in text:
             continue
@@ -26,7 +27,6 @@ def get_approved_products(limit=500, offset=0):
         if text in ("Allowed Domains", "Calculator version", "Methodology"):
             continue
 
-        text = text.split(" (revision")[0]
         products.append(text)
 
     if 'class="mw-nextlink"' in page:
