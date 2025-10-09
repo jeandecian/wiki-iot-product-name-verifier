@@ -75,3 +75,8 @@ unverified_df.to_csv("unverified.csv", index=False)
 unapproved_products = sort_products(get_unapproved_products())
 unapproved_df = pd.DataFrame(unapproved_products, columns=["Product"])
 unapproved_df.to_csv("unapproved.csv", index=False)
+
+combined_df = pd.DataFrame(
+    sort_products(approved_products + unapproved_products), columns=["Product"]
+)
+combined_df.to_csv("combined.csv", index=False)
