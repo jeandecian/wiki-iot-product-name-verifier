@@ -10,9 +10,9 @@ def get_page(url=""):
     return requests.get(WIKI_IOT_BASE_URL + url).text
 
 
-def get_approved_products(limit=500, offset=0):
+def get_products(limit=500, offset=0, show="all"):
     page = get_page(
-        f"?title={APPROVED_REVS_TITLE}&limit={limit}&offset={offset}&show=all"
+        f"?title={APPROVED_REVS_TITLE}&limit={limit}&offset={offset}&show={show}"
     )
 
     soup = BeautifulSoup(page, "html.parser")
@@ -36,9 +36,13 @@ def get_approved_products(limit=500, offset=0):
         products.append(text)
 
     if 'class="mw-nextlink"' in page:
-        return products + get_approved_products(limit, offset + limit)
+        return products + get_approved_products(limit, offset + limit, show)
 
     return products
+
+
+def get_approved_products(limit=500, offset=0, show="all"):
+    return get_products(limit, offset, show)
 
 
 approved_products = get_approved_products()
