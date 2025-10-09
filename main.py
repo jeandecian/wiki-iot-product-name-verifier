@@ -49,26 +49,29 @@ def get_unapproved_products(limit=500, offset=0, show="unapproved"):
     return get_products(limit, offset, show)
 
 
+def sort_products(products):
+    return sorted(products, key=lambda x: x.lower())
+
+
 approved_products = get_approved_products()
 
 verified_df = pd.read_csv("verified.csv").sort_values(by="Product")
 verified_df.to_csv("verified.csv", index=False)
 verified_products = set(verified_df["Product"].str.strip())
-verified_products = sorted(
+verified_products = sort_products(
     [name for name in verified_products if name in approved_products]
 )
 
 verified_df = pd.DataFrame(verified_products, columns=["Product"])
 verified_df.to_csv("verified.csv", index=False)
 
-unverified_products = sorted(
-    [name for name in approved_products if name not in verified_products],
-    key=lambda x: x.lower(),
+unverified_products = sort_products(
+    [name for name in approved_products if name not in verified_products]
 )
 
 unverified_df = pd.DataFrame(unverified_products, columns=["Product"])
 unverified_df.to_csv("unverified.csv", index=False)
 
-unapproved_products = get_unapproved_products()
+unapproved_products = sort_products(get_unapproved_products())
 unapproved_df = pd.DataFrame(unapproved_products, columns=["Product"])
 unapproved_df.to_csv("unapproved.csv", index=False)

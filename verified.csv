@@ -1,5 +1,4 @@
 Product
-ATK A87 Pro
 Abbott Freestyle Libre 2
 Acer Aspire 5
 Acer Nitro 5 AN515-43
@@ -44,32 +43,20 @@ Anker Eufy Homebase 2
 Apple AirPods 3
 Apple AirPods 4
 Apple AirPods Max
-Apple Watch Series 10
-Apple Watch Series 11
-Apple Watch Series 2
-Apple Watch Series 3
-Apple Watch Series 4
-Apple Watch Series 5
-Apple Watch Series 6
-Apple Watch Series 7
-Apple Watch Series 8
-Apple Watch Series 9
-Apple Watch Ultra
-Apple Watch Ultra 2
 "Apple iPad Air (1st Gen, 2013)"
 "Apple iPad Air 2 (2nd Gen, 2014)"
 "Apple iPad Air 3 (3rd Gen, 2019)"
 "Apple iPad Air 4 (4th Gen, 2020)"
 "Apple iPad Air 5 (5th Gen, 2022)"
 "Apple iPad Air 6 (6th Gen, 2024)"
+Apple iPad mini 4
+Apple iPad mini 5
+Apple iPad mini 6
 "Apple iPad Pro 11-inch (1st Gen, 2018)"
 "Apple iPad Pro 11-inch (2nd Gen, 2020)"
 "Apple iPad Pro 11-inch (3rd Gen, 2021)"
 "Apple iPad Pro 12.9-inch (4th Gen, 2020)"
 "Apple iPad Pro 12.9-inch (5th Gen, 2021)"
-Apple iPad mini 4
-Apple iPad mini 5
-Apple iPad mini 6
 Apple iPhone 11 Pro
 Apple iPhone 13 Pro Max
 Apple iPhone 14
@@ -82,6 +69,18 @@ Apple iPhone 7 Plus
 Apple iPhone 8
 Apple iPhone 8 Plus
 Apple iPhone XS Max
+Apple Watch Series 10
+Apple Watch Series 11
+Apple Watch Series 2
+Apple Watch Series 3
+Apple Watch Series 4
+Apple Watch Series 5
+Apple Watch Series 6
+Apple Watch Series 7
+Apple Watch Series 8
+Apple Watch Series 9
+Apple Watch Ultra
+Apple Watch Ultra 2
 Aqara Smart Curtain Motor
 Aqara U100 Smart Lock
 Aqara Video Doorbell G410
@@ -89,6 +88,7 @@ Arduino MKR WiFi 1010 Microcontroller
 Arduino Uno WiFi Rev2
 Arlo Pro 4
 Arlo Ultra 2
+ATK A87 Pro
 Atomi Smart Heater
 August Wi-Fi Smart Lock
 Avatr 11
@@ -97,16 +97,16 @@ Awair Element Indoor Air Quality Monitor
 Axon 40 Ultra
 Axon 50 Ultra
 Axon 60 Ultra
+BlackBerry Bold 9000
+BlackBerry Passport
 BLU Bold N3
 BLU F5 5G
 BLU G64
 BLU G64L
 BLU G84
-BYD Han
-BlackBerry Bold 9000
-BlackBerry Passport
 Bose Frames Tenor
 Brazen Connected Brewer GRT20C01CMC
+BYD Han
 Cadillac Lyriq
 Canon EOS R1
 Canon EOS R3
@@ -116,6 +116,12 @@ Canon PIXMA TR160
 Coolpad Cool 10
 Coolpad Cool 20
 Coolpad Daguan 3
+Dell G16
+Dell Inspiron 16
+Dell Wyse 5070 Thin
+Dell XPS 13 2-in-1
+Dell XPS 14
+Dell XPS 16
 DJI Flip
 DJI Inspire 3
 DJI Mavic 3 Pro
@@ -126,12 +132,6 @@ DJI Osmo 360
 DJI Osmo Action 3
 DJI Osmo Action 4
 DJI Osmo Nano
-Dell G16
-Dell Inspiron 16
-Dell Wyse 5070 Thin
-Dell XPS 13 2-in-1
-Dell XPS 14
-Dell XPS 16
 Dongguan Diqee 360
 EOS R5 Mark II
 Epson EB-L890E
@@ -162,6 +162,20 @@ Foscam G4EP HD Outdoor PoE IP Camera
 Foscam R8M
 Fossil Gen 6
 Fossil Q Founder Gen 2
+Garmin Fenix 7
+Garmin Fenix 7 Pro
+Garmin Fenix 8 Sapphire
+Garmin Lily 2 Active
+Garmin Venu 2 GPS Smartwatch 010-02430-11
+Garmin Venu 3
+Garmin Venu Sq 2 Music
+Garmin VIRB Ultra 30
+Garmin VIRB XE
+Geely Galaxy A7
+Geely Galaxy E5
+Geely Galaxy E8
+Geely Galaxy L6
+Geely Galaxy L7
 GL.iNet Beryl AX (GL-MT3000)
 GL.iNet GL-AR300M
 GL.iNet GL-MT6000
@@ -171,28 +185,29 @@ GL.iNet GL-XE3000
 GL.iNet Slate AX (GL-AXT1800)
 GL.iNet Slate Plus (GL-A1300)
 GL.iNet Spitz Plus (GL-X2000)
+Google Pixel 6
+Google Pixel 8
+Google Pixel 9
+GoPro Hero 10
 GPD Pocket
 GPD Pocket 2
 GPD Win 3
 GPD Win Max 2
-Garmin Fenix 7
-Garmin Fenix 7 Pro
-Garmin Fenix 8 Sapphire
-Garmin Lily 2 Active
-Garmin VIRB Ultra 30
-Garmin VIRB XE
-Garmin Venu 2 GPS Smartwatch 010-02430-11
-Garmin Venu 3
-Garmin Venu Sq 2 Music
-Geely Galaxy A7
-Geely Galaxy E5
-Geely Galaxy E8
-Geely Galaxy L6
-Geely Galaxy L7
-GoPro Hero 10
-Google Pixel 6
-Google Pixel 8
-Google Pixel 9
+Hikvision DS-2CD2042WD-I
+Hikvision DS-7608NXI-I2/8P/S
+Hikvision DS-7804N-F1
+Hikvision JTY-GD-HK100
+Hisense 65E5Q
+Hisense 75E8Q
+Hisense 85E7NQ PRO
+Hisense 85VX5Q PRO
+Honeywell Granit 1911i
+Honeywell Home T9 Smart Thermostat
+Honeywell Lyric T6 Pro WiFi Thermostat TH6320WF2003
+Honeywell Lyric Thermostat T5
+Honeywell PM65
+Honeywell PX240S
+Hongqi E-HS9
 HONOR 100 Pro
 HONOR 20
 HONOR 200 Pro
@@ -316,25 +331,6 @@ HUAWEI Watch GT 4
 HUAWEI Watch GT 5 Pro
 HUAWEI Watch Kids 4 Pro
 HUAWEI Watch Ultimate
-Hikvision DS-2CD2042WD-I
-Hikvision DS-7608NXI-I2/8P/S
-Hikvision DS-7804N-F1
-Hikvision JTY-GD-HK100
-Hisense 65E5Q
-Hisense 75E8Q
-Hisense 85E7NQ PRO
-Hisense 85VX5Q PRO
-Honeywell Granit 1911i
-Honeywell Home T9 Smart Thermostat
-Honeywell Lyric T6 Pro WiFi Thermostat TH6320WF2003
-Honeywell Lyric Thermostat T5
-Honeywell PM65
-Honeywell PX240S
-Hongqi E-HS9
-IQOO Neo 5
-IQOO Watch GT
-IQOO Z9
-IRobot Roomba e5 (5150)
 Insta360 Ace Pro
 Insta360 Air
 Insta360 Go 2
@@ -346,21 +342,22 @@ Insta360 One X
 Insta360 One X2
 Insta360 Pro 2
 Insta360 Titan
+IQOO Neo 5
+IQOO Watch GT
+IQOO Z9
+IRobot Roomba e5 (5150)
+Jabra Elite 5
 JBL Charge 5
 JBL Everest 310
 JBL Flip 5
 JBL Wave Beam
 JOOAN 8CH 1080P IP Camera
-Jabra Elite 5
 June Oven 3
-KT-690 Series Satellite Echo Sounder Buoy
 Kasa Smart Light Bulb KL110
 Kreta V11V
 Kreta V200
 Kreta Zeus 1
-LG InstaView ThinQ Door-in-Door Refrigerator
-LG NeoChef Countertop Microwave
-LG Smart Oven
+KT-690 Series Satellite Echo Sounder Buoy
 Lantronix Router Gateway
 Leapmotor B01
 Leapmotor B10
@@ -388,12 +385,15 @@ Levoit EverestAir Smart Air Purifier
 Levoit PlasmaPro 400S
 Levoit Vital 100S-P
 Levoit Vital 200S
+LG InstaView ThinQ Door-in-Door Refrigerator
+LG NeoChef Countertop Microwave
+LG Smart Oven
 Logitech Circle 2
 Logitech G304
 Lynk & Co Z10
 Lynk & Co Z20
-MECHREVO F6
 Mechrevo Aurora X
+MECHREVO F6
 Meizu 15
 Meizu 15 Lite
 Meizu 15 Plus
@@ -405,8 +405,8 @@ Meizu 21 Pro
 Meizu 21 Pro Flyme
 Meizu 22
 Meizu Lucky 08
-Meizu MX2
 Meizu Mblu 21
+Meizu MX2
 Meizu Note 16 Pro
 Meizu Pandaer Pro 3s
 Meizu Pro 6 Plus
@@ -426,16 +426,6 @@ Microsoft Xbox One X
 Mojawa Run Air
 Mojawa Run Plus
 Mojawa Terra
-NIO EC6
-NIO EC7
-NIO EP9
-NIO ES6
-NIO ES7
-NIO ES8
-NIO ET5
-NIO ET7
-NIO ET9
-NSI X25 Industrial 3D X-RAY Inspection System
 Nikon Z 5
 Nikon Z 6
 Nintendo 2DS
@@ -445,6 +435,15 @@ Nintendo DSi
 Nintendo New 3DS XL
 Nintendo Switch Lite
 Nintendo Switch OLED
+NIO EC6
+NIO EC7
+NIO EP9
+NIO ES6
+NIO ES7
+NIO ES8
+NIO ET5
+NIO ET7
+NIO ET9
 Nokia 110 4G (2024)
 Nokia 8110 4G
 Nokia 8110 4G (Banana Phone)
@@ -455,6 +454,7 @@ Nothing Ear (3)
 Nothing Phone (3)
 Nothing Phone (3) Pro
 Nothing Phone (3a) Pro
+NSI X25 Industrial 3D X-RAY Inspection System
 Nubia Flip
 Nubia RedMagic 10 Air
 Nubia RedMagic 10S Pro
@@ -464,6 +464,15 @@ Nubia RedMagic 9 Pro+
 Nubia RedMagic 9S Pro
 Nubia Z70 Ultra
 Nvidia Shield Portable
+OnePlus 11
+OnePlus 12
+OnePlus 7
+OnePlus 8 Pro
+OnePlus 8T
+OnePlus Ace 2 (PHK110)
+OnePlus Ace 3
+OnePlus Ace 3 Pro
+OnePlus Nord 2
 OPPO A1i
 OPPO A38
 OPPO A9
@@ -495,26 +504,16 @@ OPPO Reno 12 Pro
 OPPO Reno 6 Pro
 OPPO Reno 6 Pro+
 OPPO Watch 3
-OnePlus 11
-OnePlus 12
-OnePlus 7
-OnePlus 8 Pro
-OnePlus 8T
-OnePlus Ace 2 (PHK110)
-OnePlus Ace 3
-OnePlus Ace 3 Pro
-OnePlus Nord 2
 Orange Pi 5 Plus
-PNI Safe House HS540
 Panasonic EAH-AZ100-S
 Panasonic EAH-AZ40M2
 Panasonic EAH-AZ80-S
 Panasonic Z95B
+PNI Safe House HS540
 Polar M400
 Porsche Taycan Turbo
 Purism Librem 11
 Purism Librem 14
-ROG Phone 8 Pro Edition
 Raspberry Pi 3
 Raspberry Pi 4
 Raspberry Pi 4 Model B
@@ -543,8 +542,8 @@ Redmi Note 14 Pro+
 Redmi Note 8 Pro
 Redmi Pad Pro
 Roborock Q8 Max Camera
+ROG Phone 8 Pro Edition
 Roku TV
-STM32 NUCLEO-L476RG
 Samsung Galaxy A12
 Samsung Galaxy A42 5G
 Samsung Galaxy A52s 5G
@@ -577,8 +576,8 @@ Samsung QN90C 65-inch Neo QLED 4K Smart TV
 Samsung RF27T Refrigerator
 Samsung SHP-DR718
 Samsung SmartThings Hub
-SmartLock Pro 5000
 Smartisan T1
+SmartLock Pro 5000
 Sonos Era 100 (2023)
 Sonos Era 300
 Sonos One
@@ -603,13 +602,8 @@ Sony WH-CH720N
 Sony WI-C200
 Sony Xperia 1
 Sony Xperia 1 IV
+STM32 NUCLEO-L476RG
 Suunto 9 Peak
-TOTO Neorest NX2
-TP-Link Archer AX50 Router
-TP-Link Archer AX6000
-TP-Link ER7206 Router
-TP-Link Omada ER605 Router
-TP-Link TL-WR940N Router
 Tecno Camon 20
 Tecno Camon 20 Plus
 Tecno Camon 20 Pro
@@ -620,12 +614,25 @@ Tesla Model 3
 Tesla Model S
 Tesla Model X
 Tesla Model Y
+TOTO Neorest NX2
 Toyota Allion
+Toyota bZ3
 Toyota Camry
 Toyota Highlander
 Toyota RAV4
 Toyota Venza
-Toyota bZ3
+TP-Link Archer AX50 Router
+TP-Link Archer AX6000
+TP-Link ER7206 Router
+TP-Link Omada ER605 Router
+TP-Link TL-WR940N Router
+Vivo iQOO 11S
+Vivo iQOO 12
+Vivo iQOO 7
+Vivo iQOO Neo6
+Vivo iQOO Neo7
+Vivo iQOO Neo8
+Vivo iQOO Neo9
 Vivo S19
 Vivo V7
 Vivo Watch 3
@@ -644,20 +651,9 @@ Vivo X90 Pro
 Vivo Y300 Pro
 Vivo Y50t
 Vivo Y93
-Vivo iQOO 11S
-Vivo iQOO 12
-Vivo iQOO 7
-Vivo iQOO Neo6
-Vivo iQOO Neo7
-Vivo iQOO Neo8
-Vivo iQOO Neo9
 Wemo Mini WiFi Smart Plug F7C063
 Wiko Lenny 2
 Withings BPM Connect Wi-Fi Smart Blood Pressure Monitor
-XPeng G6
-XPeng G7
-XPeng G9
-XPeng P7i
 Xiaomi AirDots Series
 Xiaomi Book 16
 Xiaomi Book Pro 14
@@ -666,9 +662,6 @@ Xiaomi Civi 2
 Xiaomi Civi 3
 Xiaomi Civi 4 Pro
 Xiaomi Civi 5 Pro
-Xiaomi MIX Flip
-Xiaomi MIX Flip 2
-Xiaomi MIX Fold 2
 Xiaomi Mi 10
 Xiaomi Mi 10T
 Xiaomi Mi 11
@@ -694,7 +687,13 @@ Xiaomi Mi Smart Band 8
 Xiaomi Mi Smart Band 8 Pro
 Xiaomi Mi Smart Band 9
 Xiaomi Mi True Wireless Earbuds 2C
+Xiaomi MIX Flip
+Xiaomi MIX Flip 2
+Xiaomi MIX Fold 2
 Xiaomi Outdoor Camera AW300
+Xiaomi Pad 5
+Xiaomi Pad 6
+Xiaomi Pad 6S Pro
 Xiaomi POCO C51
 Xiaomi POCO C55
 Xiaomi POCO C65
@@ -706,9 +705,6 @@ Xiaomi POCO X4 Pro 5G
 Xiaomi POCO X5
 Xiaomi POCO X6 Neo 5G
 Xiaomi POCO X6 Pro 5G
-Xiaomi Pad 5
-Xiaomi Pad 6
-Xiaomi Pad 6S Pro
 Xiaomi Rechargeable Mini Fan
 Xiaomi Redmi 10C
 Xiaomi Redmi 12C
@@ -730,13 +726,17 @@ Xiaomi RedmiBook Pro 16
 Xiaomi Robot Vacuum S20 Plus
 Xiaomi Router AX3200
 Xiaomi Router BE6500 Pro
-Xiaomi SU7
 Xiaomi Smart Air Purifier 4 Compact
 Xiaomi Smart Speaker X1
 Xiaomi Sound
+Xiaomi SU7
 Xiaomi Watch S3
 Xiaomi Watch S4 Sport
 Xiaomi Yeelight YLXD50YL
+XPeng G6
+XPeng G7
+XPeng G9
+XPeng P7i
 Yale WIPC-301W (IP Camera 720p)
 Yi Home Camera
 Yi Technology Yi Home Camera (i27US)
