@@ -45,6 +45,10 @@ def get_approved_products(limit=500, offset=0, show="all"):
     return get_products(limit, offset, show)
 
 
+def get_unapproved_products(limit=500, offset=0, show="unapproved"):
+    return get_products(limit, offset, show)
+
+
 approved_products = get_approved_products()
 
 verified_df = pd.read_csv("verified.csv").sort_values(by="Product")
@@ -64,3 +68,7 @@ unverified_products = sorted(
 
 unverified_df = pd.DataFrame(unverified_products, columns=["Product"])
 unverified_df.to_csv("unverified.csv", index=False)
+
+unapproved_products = get_unapproved_products()
+unapproved_df = pd.DataFrame(unapproved_products, columns=["Product"])
+unapproved_df.to_csv("unapproved.csv", index=False)
