@@ -1,5 +1,4 @@
 Product
-123
 Abbott Freestyle Libre 2
 Acer Aspire 5
 Acer Nitro 17 AMD
@@ -265,6 +264,7 @@ Arduino MKR WiFi 1010 Microcontroller
 Arduino nano
 Arduino Uno rev3
 Arduino Uno WiFi Rev2
+Arirang AS1201
 Arlo base stations
 Arlo Essential Spotlight Camera
 Arlo Pro 3 Wire-Free 2K HDR Floodlight Camera
@@ -272,10 +272,8 @@ Arlo Pro 4
 Arlo Pro 4 Security Camera
 Arlo Pro 5S 2K Camera
 Arlo Ultra 2
-AS1201
 Astell&Kern A&norma SR35
 Astell&Kern AK Jr
-ASUS
 ASUS B650M-K
 ASUS B760M-AYW
 ASUS B760M-K
@@ -287,6 +285,7 @@ ASUS ExpertBook PX463CVA
 ASUS H610M-AYW
 ASUS H610M-K
 ASUS ROG Phone 8
+ASUS ROG Strix G15 Advantage Edition
 ASUS ROG Strix G15 G513IC
 ASUS SmartO Mouse MD200
 ASUS TUF Gaming A15
@@ -334,12 +333,12 @@ Axis F44 Main Unit
 Axon 40 Ultra
 Axon 50 Ultra
 Axon 60 Ultra
-B&O Beoplay EX
-B&O Beoplay H100
-B&O Beoplay Portal PC PS
 B550M-K
 B650M-AYW
 Bamboo Earphones「惊鸿」2025
+Bang & Olufsen Beoplay EX
+Bang & Olufsen Beoplay H100
+Bang & Olufsen Beoplay Portal PC PS
 Beats Beats Fit Pro
 Beats Fit Pro
 Beats Flex 颈挂式
@@ -388,7 +387,7 @@ Bose QuietComfort
 Bose QuietComfort 45
 Bose QuietComfort Ultra
 Bose QuietComfort Ultra Headphones
-Bose Soundbar Ultra
+Bose Smart Ultra Soundbar
 Bose SoundLink Flex
 Bose SoundLink Home
 Bose SoundLink Micro
@@ -437,9 +436,9 @@ COSORI Smart Tea Kettle
 Coway Airmega 150
 Cuckoo Smart Rice Cooker
 D-Link DCS-930L
+D-Link DIR-822 Router
 D-Link DIR-825 Router
-D-Link Routeur DIR-822
-D-Link Routeur GO-RT-AC750
+D-Link GO-RT-AC750 Router
 Dbell HD
 DeaPad 3
 DELL G 15
@@ -995,7 +994,6 @@ IPad mini 5
 IPhone 13
 IPhone 14 Pro Max
 Iphone 6s plus
-Iphone 8 plus
 IPhone xsmax
 IQOO 10
 IQOO 11
@@ -1244,6 +1242,7 @@ Microsoft Xbox Series x
 Microsoft Xbox Series x 2
 Midea BreezeleSS+ Air Conditioner
 MideaAirConditionerKFR-35GW
+Minew RS075V V-Shaped Seven-Color Smart Electronic Desk Plate
 MNT Pocket Reform
 Mobvoi TicWatch E3
 Mojawa Run Air
@@ -1359,14 +1358,14 @@ Nubia RedMagic 9 Pro
 Nubia RedMagic 9 Pro+
 Nubia RedMagic 9S Pro
 Nubia Z70 Ultra
-Nvidia Jetson AGX Xavier
-Nvidia jetson nano
-NVIDIA Jetson Orin nano
-Nvidia Jetson T5000 Module
+NVIDIA Jetson AGX Xavier
+NVIDIA Jetson Nano
+NVIDIA Jetson Orin Nano
+NVIDIA Jetson Orin NX
+NVIDIA Jetson T5000 Module
 NVIDIA Jetson Thor
-Nvidia Jetson TX2 NX
-Nvidia Jetson Xavier NX
-Nvidia orin nx
+NVIDIA Jetson TX2 NX
+NVIDIA Jetson Xavier NX
 Nvidia Shield Portable
 Nvidia Shield TV
 Nvidia Shield TV Pro
@@ -1381,6 +1380,7 @@ OnePlus 11 5G
 OnePlus 12
 OnePlus 13
 OnePlus 13 5G
+OnePlus 13T
 OnePlus 7
 OnePlus 8
 OnePlus 8 Pro
@@ -1551,7 +1551,6 @@ Purism Librem 11
 Purism Librem 14
 QCC730 Wi-Fi Chip
 Questyle M15
-Qwer
 Rabbit r1
 Rachio 3 Smart Sprinkler Controller 8ZULW-C
 Radxa Rock 5 ITX
@@ -1595,10 +1594,6 @@ Realme Neo7 SE
 Realme Neo7 Turbo
 Realme Neo7x
 Red Magic 10 Air
-Redmi 13C
-Redmi 13C 5G
-Redmi 14C
-REDMI 15R 5G
 Redmi AirDots
 Redmi AirDots 3
 Redmi airdots 3 pro
@@ -1617,7 +1612,6 @@ Redmi k 70 ultra
 REDMI K Pad
 Redmi k30
 Redmi K30i
-Redmi k50
 Redmi K50 Pro
 Redmi K60 Pro
 Redmi K60E
@@ -1873,6 +1867,7 @@ Sony RX0 II
 Sony SEL35F14GM
 Sony ULT WEAR
 Sony VLOGCAM ZV-E10
+Sony WF-1000XM4
 Sony WF-1000XM5
 Sony WF-C510
 Sony WF-C700N​
@@ -1959,7 +1954,6 @@ Unbranded Portable Patient Monitor
 UNICEF Blood refrigeration units
 Unihertz Atom
 Universal Robot UR20
-V - shaped Seven - color Smart Electronic Desk Plate RS075V
 Valve Steam Deck OLED
 Vector 2.0 Robot by DDL
 VGN N75
@@ -2079,7 +2073,6 @@ Volvo XC60
 Wemo Mini WiFi Smart Plug F7C063
 Whirlpool French door refrigerator WRFA94CIHZ
 WHOOP Strap 3.0
-Wiki iot:Users
 Wiko Lenny 2
 Withings Body Cardio
 Withings Body Scan
@@ -2197,6 +2190,10 @@ Xiaomi POCO X6 Pro 5G
 Xiaomi Rechargeable Mini Fan
 Xiaomi Redmi 10C
 Xiaomi Redmi 12C
+Xiaomi Redmi 13C
+Xiaomi Redmi 13C 5G
+Xiaomi Redmi 14C
+Xiaomi Redmi 15R 5G
 Xiaomi Redmi 1S
 Xiaomi Redmi 2
 Xiaomi Redmi 5 Plus
@@ -2250,7 +2247,6 @@ Xiaomi Watch S4 Sport
 Xiaomi Xiao Ai Speaker Play
 Xiaomi Yeelight YLXD50YL
 Xiaomi YU7
-Xiaomi yu7
 Xiaomi11
 Xiaomi8
 XIAOVV P15S 4G LTE Outdoor PTZ Camera
@@ -2294,8 +2290,6 @@ Zipato Smart Hubs
 ZTE A31 5G
 ZWT Nova X1
 ​HUAWEI WATCH Buds​​
-​Sony WF-1000XM4
-​Sony WH-CH720N​
 ​Tesla Model 3 Long Range
 ​​HUAWEI WATCH 4
 ​​HUAWEI WATCH GT 6
@@ -2306,7 +2300,6 @@ ZWT Nova X1
 一加 Ace 3V
 一加 Ace 5 竞速版
 一加 Ace 5 至尊版
-一加13T
 大疆 pocket2
 大疆 pocket3
 大疆 pocket4
@@ -2319,5 +2312,3 @@ ZWT Nova X1
 小米15
 小米6
 小米8
-红米K50
-苹果 iphone 8 plus
