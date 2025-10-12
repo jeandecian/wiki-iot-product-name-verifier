@@ -13,6 +13,7 @@ Acer Predator Triton Neo 16
 Acer Swift 3 (SF314-512)
 Acer V Nitro 6
 Aeklys by Starck
+AI Thinker ESP32-CAM Module
 Aito M5
 Aito M7
 Aito M9
@@ -501,7 +502,7 @@ Ecobee Smart Thermostat Premium (2023)
 Ecobee SmartThermostat with Voice Control
 Ecobee3 lite
 EcoTherm Smart Thermostat X200
-EDIFIER Comfo Clip Q
+Edifier Comfo Q
 Edifier Lolli3 ANC
 Edifier W820NB
 Elgato Stream Deck MK.2
@@ -510,7 +511,6 @@ EOS R5 Mark II
 Epson EB-L890E
 Epson EcoTank ET-2850
 Epson RC800-A Robot Controller
-ESP32-CAM Module (Generic AI-Thinker Board)
 Espressif ESP32
 Espressif ESP8266
 Etekcity Smart Nutrition Scale ESN00
@@ -1170,8 +1170,6 @@ Macbook Pro M1 13.3
 Maimai dx
 Marshall Acton II
 Marshall Uxbridge voice
-MBM01 Long - distance and Long - endurance Beacon
-ME54BS61 Bluetooth Module
 Mechrevo Aurora X
 MECHREVO F6
 Mechrevo Flood Dragon 16 Pro
@@ -1198,7 +1196,6 @@ Mercedes-Benz EQS 580 4MATIC
 Meta Oculus Go
 Meta Quest 2
 Meta Quest 3
-Meteor Earphone
 Mi Band 4
 Mi Band 5
 Mi Band6
@@ -1226,9 +1223,11 @@ Microsoft Xbox One
 Microsoft Xbox One X
 Microsoft Xbox Series x
 Microsoft Xbox Series x 2
+Midea Air Conditioner KFR-35GW
 Midea BreezeleSS+ Air Conditioner
-MideaAirConditionerKFR-35GW
+Minew MBM01 Ultra-Long Range Beacon
 Minew RS075V V-Shaped Seven-Color Smart Electronic Desk Plate
+Minewsemi ME54BS61 Bluetooth Module
 MNT Pocket Reform
 Mobvoi TicWatch E3
 Mojawa Run Air
@@ -1238,6 +1237,7 @@ Monarch SX Chip
 Monnit ALTA Wireless Temperature Sensors
 Monnit Wireless Water Detection Puck
 MOONDROP Aria 2
+MOONDROP Meteor Earphone
 Moondrop Pill
 MOONDROP Space Travel
 MOONDROP Space Travel 2
@@ -1248,14 +1248,14 @@ MOONROP-Dreams comeback
 MOONROP-illustrious
 MOONROP-Rays
 MOONROP-Spring Tips
-Moto Edge 60
-Moto Edge 60 Pro
+Motorola Edge 60
+Motorola Edge 60 Pro
 Motorola Moto G6 Play
-Motorola moto razr
+Motorola Razr
 Moveitbeat haltère connectée
 MSI gp66
 MSI H610M-E
-MSI H610M-S
+MSI PRO H610M-S
 MSI Titan 18 HX Dragon Edition Norse Myth
 MSR01 Millimeter Wave Radar Sensor
 Muse 2 Headband
@@ -1319,6 +1319,7 @@ Nokia 8110 4G (Banana Phone)
 Nokia C32
 Nokia G50
 Nokia Lumia 720
+Nordic Semiconductor NRF91 Series Chip and Module
 Nothing CMF Watch 3 Pro
 Nothing Ear (2)
 Nothing Ear (3)
@@ -1326,7 +1327,6 @@ Nothing Phone (2a)
 Nothing Phone (3)
 Nothing Phone (3) Pro
 Nothing Phone (3a) Pro
-NRF91 Series Chip and Module
 NSI X25 Industrial 3D X-RAY Inspection System
 Nubia Flip
 Nubia RedMagic 10 Air
@@ -1764,12 +1764,11 @@ SHOKZ OpenRun AIR
 SHOKZ OpenRun Pro
 SHOKZ OpenSwim
 Sierra Wireless AirLink RV55 Industrial Cellular Router
+Silicon Labs SiXG301 Wireless SoC
+Silicon Labs SiXG302 Wireless SoC
 SIMGOT DEW4X True Wireless Earbuds
-SiXG301 Wireless SoC
-SiXG302 Wireless SoC
 SJCAM SJ8 Pro
 Slow Cooker SCW3000S
-Smart Wearable Chip W217
 Smartisan Nut R2
 Smartisan T1
 SmartLock Pro 5000
@@ -1779,18 +1778,6 @@ Sonos Era 300
 Sonos One
 Sonos One SL
 Sony A95L
-Sony alpha 6400
-Sony Alpha 6500
-Sony alpha 6700
-Sony Alpha 7 IV
-Sony Alpha 7R IV
-Sony Alpha 7R V
-Sony Alpha 7S III
-Sony Alpha α6600
-Sony Alpha α7 III
-Sony Alpha α7 IV
-Sony Alpha α7C
-Sony Alpha α7C II
 Sony BRAVIA 3 (K-75S30)
 Sony BRAVIA 5 (K-75XR50)
 Sony BRAVIA 7 (K-75XR70)
@@ -1845,6 +1832,17 @@ SONY Xperia 1 IV 5G
 Sony Xperia Z1
 Sony XR-75X90L
 Sony XR-77A80EL
+Sony α6400
+Sony α6500
+Sony α6600
+Sony α6700
+Sony α7 III
+Sony α7 IV
+Sony α7C
+Sony α7C II
+Sony α7R IV
+Sony α7R V
+Sony α7S III
 Soundcore Liberty 4
 Steam Deck
 Stelpro Maestro Smart Thermostat
@@ -1906,6 +1904,7 @@ Unbranded Portable Patient Monitor
 UNICEF Blood refrigeration units
 Unihertz Atom
 Unihertz Jelly 2
+UNISOC W217 Smart Wearable Chip
 Universal Robot UR20
 Valve Steam Deck OLED
 Vector 2.0 Robot by DDL
