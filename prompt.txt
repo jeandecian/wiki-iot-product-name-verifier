@@ -6,7 +6,7 @@ An Internet of Things (IoT) device is a physical object connected to the interne
 Present the results in a table with columns:
 
 - Product Entry
-- Corrected Name (suggested correction if applicable)
+- Corrected Name (formatted as: company name + product official name [brand + specifier] + model number/generation/year)
 - Correctly Written (Yes/No)
 - Reason for Incorrectness (if any)
 - Is IoT Device (Yes/No)
