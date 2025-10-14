@@ -1,0 +1,13 @@
+Analyze the following product entry for correctness and whether it is an IoT device. Check for proper format, completeness, and consistency in the product name and description. Determine if the product qualifies as an Internet of Things (IoT) device based on its typical functions and connectivity features.
+
+Present the results in a table with columns:
+
+- Product Entry
+- Correctly Written (Yes/No)
+- Reason for Incorrectness (if any)
+- Is IoT Device (Yes/No)
+- Notes (optional explanation)
+
+Example product entry for analysis:
+
+"TP-Link Kasa HS100 Smart Plug"
