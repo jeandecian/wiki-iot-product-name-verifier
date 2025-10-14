@@ -1,5 +1,8 @@
 Analyze the following product entry for correctness and whether it is an IoT device. Check for proper format, completeness, and consistency in the product name and description. Determine if the product qualifies as an Internet of Things (IoT) device based on its typical functions and connectivity features.
 
+IoT Device Definition:
+An Internet of Things (IoT) device is a physical object connected to the internet that can communicate, exchange data, or be remotely controlled. This includes smart home appliances, sensors, security cameras, wearables, as well as connected devices such as smartphones, computers, and other internet-capable devices that may act as control hubs or data sources within IoT ecosystems.
+
 Present the results in a table with columns:
 
 - Product Entry
