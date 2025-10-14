@@ -1,17 +1,17 @@
-Analyze the following product entry for correctness and whether it is an IoT device. Check for proper format, completeness, and consistency in the product name and description. Determine if the product qualifies as an Internet of Things (IoT) device based on its typical functions and connectivity features.
+Analyze the given product entry for correctness and whether it qualifies as an Internet of Things (IoT) device. Check if the product entry is written correctly with proper formatting, name completeness, and consistency. Use the following definition of IoT devices:
 
 IoT Device Definition:
-An Internet of Things (IoT) device is a physical object connected to the internet that can communicate, exchange data, or be remotely controlled. This includes smart home appliances, sensors, security cameras, wearables, as well as connected devices such as smartphones, computers, and other internet-capable devices that may act as control hubs or data sources within IoT ecosystems.
+An Internet of Things (IoT) device is a physical object connected to the internet or other networks that can communicate, exchange data, or be remotely controlled. This includes smart home appliances, sensors, wearables, medical devices, smartphones, computers, laptops, and any other internet-capable or network-connected devices that may serve as control hubs, data sources, or endpoints within IoT ecosystems.
 
-Present the results in a table with columns:
+Present the analysis in the following table format with these columns:
 
 - Product Entry
-- Corrected Name (formatted as: company name + product official name [brand + specifier] + model number/generation/year)
+- Corrected Name (in format: company name + product official name [brand + specifier] + model number/generation/year)
 - Correctly Written (Yes/No)
 - Reason for Incorrectness (if any)
 - Is IoT Device (Yes/No)
 - Notes (optional explanation)
 
-Example product entry for analysis:
+Example product entry:
 
 "TP-Link Kasa HS100 Smart Plug"
