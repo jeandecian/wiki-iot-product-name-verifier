@@ -3,6 +3,7 @@ Analyze the following product entry for correctness and whether it is an IoT dev
 Present the results in a table with columns:
 
 - Product Entry
+- Corrected Name (suggested correction if applicable)
 - Correctly Written (Yes/No)
 - Reason for Incorrectness (if any)
 - Is IoT Device (Yes/No)
