@@ -21,13 +21,13 @@ Alibaba Cloud Smart Moxibustion Instrument AI Pro
 Alienware 15 R4
 Alienware 15 R5
 Alienware 17 R5
-ALIENWARE Area-51m
+Alienware Area-51m
 Alienware Aurora R13
 Alienware Aurora R14
 Alienware Aurora R15
 Alienware Aurora R16
 Alienware m16 R2
-ALIENWARE M17 R1
+Alienware M17 R1
 Alienware M17 R2
 Alienware M17 R3
 Alienware M17 R4
@@ -77,7 +77,6 @@ Apple 17
 Apple 5s
 Apple 6s
 Apple 8
-Apple Air 7
 Apple airpods 2
 Apple AirPods 3
 Apple AirPods 4
@@ -105,6 +104,7 @@ Apple iPad Air
 "Apple iPad Air 4 (4th Gen, 2020)"
 "Apple iPad Air 5 (5th Gen, 2022)"
 "Apple iPad Air 6 (6th Gen, 2024)"
+Apple iPad Air 7
 Apple iPad mini (2025)
 Apple iPad mini 4
 Apple iPad mini 5
@@ -141,7 +141,6 @@ Apple iPhone 13 pro max
 Apple iPhone 14
 Apple iPhone 14 Pro
 Apple iPhone 14 Pro Max
-Apple iPhone 14 pro max
 Apple iPhone 14plus
 Apple iPhone 15
 Apple Iphone 15 Pro
@@ -316,9 +315,6 @@ Atomi Smart Heater
 Audio-Technica ATH-M50x
 August Smart Lock
 August Wi-Fi Smart Lock
-August Wi-Fi Smart Lock (4th gen)
-August Wi-Fi Smart Lock (4th Generation)
-August Wi-Fi Smart Lock 4th Gen
 Avatr 11
 Avatr 12
 Awair Element Indoor Air Quality Monitor
@@ -853,7 +849,6 @@ HUAWEI MatePad Air
 HUAWEI MatePad air
 HUAWEI MatePad Air 12 Inch
 HUAWEI MatePad Mini
-Huawei MatePad Mini
 HUAWEI MatePad Pro 11
 HUAWEI MatePad Pro 12.2 2025
 HUAWEI MatePad Pro 12.2 Inch
@@ -976,9 +971,6 @@ Insta360 X4
 Insta360 X5
 Insulin Belt Pump
 Inus Smart Toilet
-IPad Air (5th generation)
-IPhone 14 Pro Max
-Iphone 6s plus
 IQOO 10
 IQOO 11
 Iqoo 11
@@ -1023,7 +1015,6 @@ JBL WAVE BEAM2
 JOOAN 8CH 1080P IP Camera
 JSoul AirBuds
 June Oven 3
-Kasa Smart Light Bulb KL110
 Kindle (10th Generation)
 Kindle (8th Generation)
 Kindle Oasis (1st iteration)
@@ -1053,13 +1044,13 @@ Leapmotor Lafa 5
 Leapmotor T03
 Lenovo Legion 11
 Lenovo Legion 5
-Lenovo Legion 7i (旗舰游戏本)
-"Lenovo Legion Pro 7 2024 (16-inch, Intel Core Edition)"
+Lenovo Legion 7i
+"Lenovo Legion Pro 7 (16-inch, 2024, Intel Core Edition)"
 Lenovo LEGION R7000
 Lenovo Legion R7000
 Lenovo Legion R7000P
-Lenovo legion r9000p
 Lenovo Legion R9000P
+Lenovo legion r9000p
 Lenovo Legion R9000P 2025 Ultimate Edition
 Lenovo Legion Slim 5
 Lenovo Legion Tower 5
@@ -1148,7 +1139,7 @@ Logitech MX Master 5
 Logitech pro x superlight
 Logitech PRO X SUPERLIGHT 2
 Logitech Signature M650
-LOTUS
+Lotus Eletre
 Lutron Caseta Wireless Smart Dimmer PD-6WCL
 Lynk & Co Z10
 Lynk & Co Z20
@@ -1212,7 +1203,6 @@ Mobvoi TicWatch E3
 Mojawa Run Air
 Mojawa Run Plus
 Mojawa Terra
-Monarch SX Chip
 Monnit ALTA Wireless Temperature Sensors
 Monnit Wireless Water Detection Puck
 MOONDROP Aria 2
@@ -1476,7 +1466,7 @@ Orange Pi 5 Plus
 Orbic TAB
 Osmo Action 3
 Osmo Action 4
-Oura Ring Gen3
+Oura Ring Generation 3
 Palm Phone
 Panasonic EAH-AZ100-S
 Panasonic EAH-AZ40M2
@@ -1734,6 +1724,7 @@ Sennheiser Momentum 1
 Sennheiser Momentum 2
 Sennheiser Momentum 3
 Sennheiser Momentum 4
+Sequans Monarch SX
 SHOKZ OpenComm
 SHOKZ OpenFit
 SHOKZ OpenFit2
@@ -1863,6 +1854,7 @@ Toyota Venza
 TP-Link Archer AX50 Router
 TP-Link Archer AX6000
 TP-Link ER7206 Router
+TP-Link Kasa Smart Light Bulb KL110
 TP-Link Kasa Smart Plug HS100
 TP-Link Kasa Smart Plug KP115
 TP-Link LED Bulb LB130
