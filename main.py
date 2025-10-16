@@ -49,6 +49,10 @@ def get_unapproved_products(limit=500, offset=0, show="unapproved"):
     return get_products(limit, offset, show)
 
 
+def get_modified_products(limit=500, offset=0, show=""):
+    return get_products(limit, offset, show)
+
+
 def sort_products(products):
     return sorted(products, key=lambda x: x.lower())
 
@@ -80,3 +84,10 @@ combined_df = pd.DataFrame(
     sort_products(approved_products + unapproved_products), columns=["Product"]
 )
 combined_df.to_csv("combined.csv", index=False)
+
+modified_products = [name.split(" (diff")[0] for name in get_modified_products()]
+modified_products = sort_products(
+    [name for name in modified_products if name in verified_products]
+)
+modified_df = pd.DataFrame(modified_products, columns=["Product"])
+modified_df.to_csv("modified.csv", index=False)
