@@ -142,9 +142,7 @@ Apple iPhone 16 pro max
 Apple iPhone 16e
 Apple Iphone 16pro
 Apple Iphone 16proMax
-Apple Iphone 17
 Apple iPhone 17
-Apple iphone 17
 Apple iPhone 17 Pro
 Apple iphone 17 pro
 Apple Iphone 17 Pro Max
@@ -245,11 +243,13 @@ ASUS ROG Flow X13 (2022) GV301
 ASUS ROG Flow X13 (2023) GV302
 ASUS ROG Flow X16 Gaming Laptop (2023) GV601
 ASUS ROG Flow Z13 (2025) GZ302
+ASUS ROG G700 (G700 TF)
 Asus ROG Gunslinger 9
 Asus ROG Gunslinger 9 Plus
 Asus ROG Magbaru 9
 Asus ROG Magbaru 9 Plus
-ASUS ROG Phone 8
+ASUS ROG NUC
+ASUS ROG Phone 9 Pro
 ASUS ROG Strix B850-G GAMING WIFI S
 ASUS ROG Strix G15 Advantage Edition
 ASUS ROG Strix G15 G513IC
@@ -261,6 +261,9 @@ ASUS ROG Strix SCAR 18 (2025) G835
 ASUS ROG Strix Scar 9 (G814FP9955-0EAGXHB8X20)
 ASUS ROG Strix Scar 9 Plus (G814FP9955-0EAGXHB8X20)
 ASUS ROG Strix XG248QSG Ace
+ASUS ROG Zephyrus G14
+ASUS ROG Zephyrus G16 (2023) GU603
+ASUS ROG Zephyrus G16 Air (GA605)
 ASUS SmartO Mouse MD200
 ASUS TUF Gaming A15
 ASUS TUF Gaming F16 FX607JV-ES73
@@ -1267,7 +1270,6 @@ NVIDIA Jetson Xavier NX
 Nvidia Shield Portable
 Nvidia Shield TV
 Nvidia Shield TV Pro
-One plus 13
 OnePlus 10
 OnePlus 10 Pro 5G
 OnePlus 11
@@ -1290,7 +1292,6 @@ OnePlus Ace 3
 OnePlus Ace 3 Pro
 OnePlus Ace 3V
 OnePlus Ace 5
-Oneplus Ace 5
 OnePlus Ace 5 Pro
 OnePlus Ace 5 Racing Edition
 OnePlus Ace 5 Ultra
@@ -1324,7 +1325,6 @@ OPPO Enco Air4 Pro
 OPPO Enco Buds3 Pro
 OPPO Enco Free2
 OPPO Enco Free3
-OPPO Enco free3
 OPPO Enco Free4
 OPPO Enco X2
 OPPO Enco X3
@@ -1340,7 +1340,6 @@ OPPO Find X6 Pro
 OPPO Find X7
 OPPO Find X7 Ultra
 OPPO Find X8
-Oppo find x8
 OPPO Find X8 Pro
 OPPO Find X8 Pro Satellite Edition
 OPPO Find X8 Ultra
@@ -1357,7 +1356,6 @@ OPPO K13 Turbo Pro 5G
 OPPO K13s
 OPPO K13x 5G
 OPPO N1
-OPPO Oneplus ace 5
 OPPO Pad 2
 OPPO Pad 3
 OPPO Pad 3 Pro
@@ -1382,25 +1380,22 @@ OPPO Reno 13
 OPPO Reno 13 Pro
 OPPO Reno 14
 OPPO Reno 14 Pro
+OPPO Reno 5
+OPPO Reno 5 Pro
 OPPO Reno 6 Pro
 OPPO Reno 6 Pro+
-Oppo Reno11
-OPPO Reno13
-OPPO Reno13 Pro
+OPPO Reno 7
+OPPO Reno 7 Pro
+OPPO Reno 7 Pro+
+OPPO Reno 8
+OPPO Reno 8 Pro
+OPPO Reno 8 Pro+
 OPPO Reno14
 OPPO Reno14 Pro
-OPPO Reno5
-OPPO Reno5 Pro
-OPPO reno7
-OPPO reno7Pro
-OPPO reno7Pro+
-OPPO reno8
-OPPO reno8Pro
-OPPO reno8Pro+
 OPPO Watch 3
-Oppo watch 4 pro
+OPPO Watch 4 Pro
 OPPO Watch X
-Oppo Watch X2
+OPPO Watch X2
 Orange Pi 5 Plus
 Orbic Tab8 5G
 Oura Ring Generation 3
@@ -1487,15 +1482,7 @@ Realme Neo7x
 Red Magic 10 Air
 REDMI Book Pro 14 2025
 REDMI Book Pro 16
-Redmi k 70 ultra
-Redmi k30
 Redmi K70 Pro
-Redmi K70 Ultra
-Redmi k70 ultra
-REDMI K80
-Redmi k80
-REDMI K80 Pro
-REDMI K80 Ultra
 Redmi MAX85
 Redmi Note 10 Pro
 Redmi Note 10S
@@ -1523,22 +1510,15 @@ Roborock Q8 Max Camera
 ROG Ally(2024)
 ROG CROSSHAIR X870E EXTREME
 ROG Delta S Core Gaming Headset
-ROG G700(G700 TF)
-ROG NUC
 ROG Phone 8
 ROG Phone 8 Pro Edition
-ROG Phone 9 Pro
 ROG STRIX G15 ADVANTAGE EDITION
-ROG Zephyrus G14
 ROG Zephyrus G14 (2025)
 ROG Zephyrus G14 (2025) GA403
-ROG Zephyrus G16 (2023) GU603
-ROG Zephyrus G16 Air(GA605)
 Roku TV
 Rose Technics QT-9 MK3
 RoseFinch7100 Chip
 Samsung 32英寸 G85NB 曲面Mini LED电竞显示器
-Samsung buds 3 pro
 Samsung Fit 3
 Samsung Galaxy 25
 Samsung Galaxy A12
@@ -1549,11 +1529,11 @@ Samsung Galaxy A42 5G
 Samsung Galaxy A52s 5G
 Samsung Galaxy A9 Star
 Samsung Galaxy Book Flex
-Samsung Galaxy Buds
+Samsung Galaxy Buds 2
 Samsung Galaxy Buds 2 Pro
+Samsung Galaxy Buds 3
 Samsung Galaxy Buds 3 Pro
 Samsung Galaxy Buds FE
-Samsung Galaxy Buds2
 Samsung Galaxy Buds3 FE
 Samsung Galaxy Gear
 Samsung Galaxy Note 10
@@ -1757,7 +1737,7 @@ Tesla Model Y
 Tesla Model Y 7-seat version
 "Tesla Wall Connector Gen 3 (Wi-Fi, 2023)"
 Tidbyt
-Tile Mate Bluetooth Tracker 2022
+Tile Mate Bluetooth Tracker (2022 model)
 TOTO Neorest NX2
 Toyota Allion
 Toyota bZ3
@@ -1852,9 +1832,8 @@ Vivo S19
 Vivo S19 Pro
 Vivo S19e
 Vivo S20 Pro
-Vivo S30
 Vivo s30
-Vivo S30 Pro mini
+Vivo S30 Pro Mini
 Vivo TWS 3e
 Vivo TWS 4
 Vivo TWS Air 3 Pro
@@ -1869,16 +1848,16 @@ Vivo V7
 Vivo V9
 Vivo Watch
 Vivo Watch 3
-Vivo WATCH 5
+Vivo Watch 5
 Vivo X Fold
 Vivo X Fold+
 Vivo X Fold2
 Vivo X Fold3
 Vivo X Fold5
 Vivo X100
-Vivo X100 pro
+Vivo X100 Pro
 Vivo X100 Ultra
-Vivo x100s
+Vivo X100s
 Vivo X100s Pro
 Vivo X200
 Vivo X200 FE
@@ -1893,8 +1872,7 @@ Vivo X5L
 Vivo X60
 Vivo X70
 Vivo X80
-VIVO x80 pro
-Vivo x80 pro
+Vivo X80 Pro
 Vivo X90
 Vivo X90 Pro
 Vivo Xplay5
@@ -2076,7 +2054,11 @@ Xiaomi Redmi K60 Pro
 Xiaomi Redmi K60 Ultra
 Xiaomi Redmi K60E
 Xiaomi Redmi K70
+Xiaomi Redmi K70 Ultra
 Xiaomi Redmi K70E
+Xiaomi Redmi K80
+Xiaomi Redmi K80 Pro
+Xiaomi Redmi K80 Ultra
 Xiaomi Redmi Note 11T Pro
 Xiaomi Redmi Note 12 Pro
 Xiaomi Redmi Note 12 Pro 5G
