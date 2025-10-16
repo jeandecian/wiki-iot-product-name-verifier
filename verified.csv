@@ -47,6 +47,9 @@ Amazon Fire TV Stick 4K Max
 Amibot Air
 Amibot Animal Comfort H2O Connect
 Anker Eufy Homebase 2
+Anker Eufy Security SoloCam S340 (2023)
+Anker Soundcore Liberty 4
+Anki Vector
 Apple AirPods 3
 Apple AirPods 4
 Apple AirPods Max
@@ -65,21 +68,39 @@ Apple iPad mini 6
 "Apple iPad Pro 11-inch (3rd Gen, 2021)"
 "Apple iPad Pro 12.9-inch (4th Gen, 2020)"
 "Apple iPad Pro 12.9-inch (5th Gen, 2021)"
+Apple iPhone 11
 Apple iPhone 11 Pro
+Apple iPhone 11 Pro Max
 Apple iPhone 12
+Apple iPhone 12 Mini
+Apple iPhone 13
+Apple iPhone 13 Mini
 Apple iPhone 13 Pro
 Apple iPhone 13 Pro Max
 Apple iPhone 14
 Apple iPhone 14 Pro
 Apple iPhone 14 Pro Max
 Apple iPhone 16
+Apple iPhone 3G
+Apple iPhone 3GS
+Apple iPhone 4
+Apple iPhone 5
+Apple iPhone 5c
 Apple iPhone 5s
+Apple iPhone 6
 Apple iPhone 6s
 Apple iPhone 6s Plus
 Apple iPhone 7 Plus
 Apple iPhone 8
 Apple iPhone 8 Plus
+Apple iPhone SE (1st Gen)
+Apple iPhone SE (2nd Gen)
+Apple iPhone SE (3rd Gen)
 Apple iPhone XS Max
+Apple TV (3rd Generation)
+"Apple TV 4K (2nd Generation, 2021)"
+Apple TV 4K (3rd Generation)
+"Apple TV HD (4th Generation, 2015)"
 Apple Watch Series 10
 Apple Watch Series 11
 Apple Watch Series 2
@@ -92,6 +113,7 @@ Apple Watch Series 8
 Apple Watch Series 9
 Apple Watch Ultra
 Apple Watch Ultra 2
+Apple Watch Ultra 3
 Aqara Smart Curtain Motor
 Aqara U100 Smart Lock
 Aqara Video Doorbell G410
@@ -176,6 +198,7 @@ BLU G64L
 BLU G84
 BMW i7
 BOOX Palma
+Bosch BMV080 Particulate Matter Sensor
 Bosch Sensortec BMA550 Accelerometer
 Bose Frames Tenor
 Bose Smart Ultra Soundbar
@@ -535,9 +558,10 @@ Insta360 One X2
 Insta360 Pro 2
 Insta360 Titan
 IQOO Neo 5
-IQOO Watch GT
-IQOO Z9
 IRobot Roomba e5 (5150)
+IRobot Roomba j7+ (model J755020)
+IRobot Roomba j7+ Robot Vacuum with Clean Base Automatic Dirt Disposal
+ISocket Smart Socket
 Jabra Elite 5
 JBL Charge 5
 JBL Everest 310
@@ -886,6 +910,7 @@ Samsung Galaxy A9 Star
 Samsung Galaxy Book Flex
 Samsung Galaxy Buds 2 Pro
 Samsung Galaxy Buds FE
+Samsung Galaxy Buds3 FE
 Samsung Galaxy Gear
 Samsung Galaxy Note 10
 Samsung Galaxy Ring
@@ -895,6 +920,8 @@ Samsung Galaxy S20+
 Samsung Galaxy S21 Ultra
 Samsung Galaxy S23+
 Samsung Galaxy S24 Ultra
+Samsung Galaxy S25 Edge
+Samsung Galaxy S25 Ultra
 Samsung Galaxy S7 SM-G930F
 Samsung Galaxy S8
 Samsung Galaxy S9
@@ -909,12 +936,16 @@ Samsung Galaxy Tab S8+
 Samsung Galaxy Tab S9
 Samsung Galaxy Tab S9 FE+
 Samsung Galaxy Watch 4 Classic
+Samsung Galaxy Watch 5
+Samsung Galaxy Z Flip 7
 Samsung Galaxy Z Flip5 SM-F731N
+Samsung Galaxy Z Fold 7
 Samsung QN90B Neo QLED 4K Smart TV
 Samsung QN90C 65-inch Neo QLED 4K Smart TV
 Samsung RF27T Refrigerator
 Samsung SHP-DR718
 Samsung SmartThings Hub
+Schlage Encode Smart WiFi Deadbolt
 Sequans Monarch SX
 Sierra Wireless AirLink RV55 Industrial Cellular Router
 Silicon Labs SiXG301 Wireless SoC
@@ -1012,6 +1043,7 @@ Vido W8
 Vilslla S7
 Vivo iQOO 10
 Vivo iQOO 11
+Vivo iQOO 11 Pro
 Vivo iQOO 11S
 Vivo iQOO 12
 Vivo iQOO 12 Pro
@@ -1030,8 +1062,13 @@ Vivo iQOO Neo7 SE
 Vivo iQOO Neo8
 Vivo iQOO Neo9
 Vivo iQOO Neo9 Pro
+Vivo iQOO Pad
+Vivo iQOO Watch
+Vivo iQOO Watch GT
 Vivo iQOO Z10x
 Vivo iQOO Z7i
+Vivo iQOO Z8
+Vivo iQOO Z9
 Vivo S15 Pro
 Vivo S15e
 Vivo S16
@@ -1266,6 +1303,7 @@ XPeng G6
 XPeng G7
 XPeng G9
 XPeng P7i
+XREAL Air 2 Pro
 Yale Assure Lock 2
 Yale WIPC-301W (IP Camera 720p)
 Yeedi Cube Pro
