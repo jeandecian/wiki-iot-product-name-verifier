@@ -4,6 +4,9 @@ import requests
 
 WIKI_IOT_BASE_URL = "https://fehmijaafar.net/wiki-iot/index.php"
 APPROVED_REVS_TITLE = "Special:ApprovedRevs"
+README_MD_PATH = "README.md"
+MD_TABLE_TAG_START = "<!-- TABLE_START -->"
+MD_TABLE_TAG_END = "<!-- TABLE_END -->"
 
 
 def get_page(url=""):
@@ -57,6 +60,30 @@ def sort_products(products):
     return sorted(products, key=lambda x: x.lower())
 
 
+def update_readme_table(dataframes):
+    table_md = (
+        "| CSV File | Number of Products |\n"
+        "|-----------|--------------------|\n"
+        + "\n".join(f"| {name} | {len(df)} |" for name, df in dataframes.items())
+    )
+
+    with open(README_MD_PATH, "r") as f:
+        readme_md = f.read()
+
+    readme_md = (
+        readme_md.split(MD_TABLE_TAG_START)[0]
+        + MD_TABLE_TAG_START
+        + "\n"
+        + table_md
+        + "\n"
+        + MD_TABLE_TAG_END
+        + readme_md.split(MD_TABLE_TAG_END)[1]
+    )
+
+    with open(README_MD_PATH, "w") as f:
+        f.write(readme_md)
+
+
 approved_products = get_approved_products()
 
 verified_df = pd.read_csv("verified.csv").sort_values(by="Product")
@@ -91,3 +118,12 @@ modified_products = sort_products(
 )
 modified_df = pd.DataFrame(modified_products, columns=["Product"])
 modified_df.to_csv("modified.csv", index=False)
+
+dataframes = {
+    "combined.csv": combined_df,
+    "verified.csv": verified_df,
+    "unapproved.csv": unapproved_df,
+    "unverified.csv": unverified_df,
+    "modified.csv": modified_df,
+}
+update_readme_table(dataframes)
