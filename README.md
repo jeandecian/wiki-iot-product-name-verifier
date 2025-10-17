@@ -5,9 +5,9 @@
 <!-- TABLE_START -->
 | CSV File       | Number of Products |
 | -------------- | ------------------ |
-| combined.csv   | 2101               |
-| verified.csv   | 1545               |
-| unapproved.csv | 318                |
+| combined.csv   | 2079               |
+| verified.csv   | 1596               |
+| unapproved.csv | 245                |
 | unverified.csv | 238                |
-| modified.csv   | 188                |
+| modified.csv   | 187                |
 <!-- TABLE_END -->
