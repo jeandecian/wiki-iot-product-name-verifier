@@ -1,16 +1,16 @@
-Analyze the given product entry for correctness and whether it qualifies as an Internet of Things (IoT) device. Check if the product entry is written correctly with proper formatting, name completeness, and consistency. Use the following definition of IoT devices:
+Analyze the given product entry for correctness and whether it qualifies as an Internet of Things (IoT) device. Check if the product entry is written correctly with proper formatting, name completeness, and consistency. Use the following comprehensive definition of IoT devices:
 
 IoT Device Definition:
-An Internet of Things (IoT) device is a physical object connected to the internet or other networks that can communicate, exchange data, or be remotely controlled. This includes smart home appliances, sensors, wearables, medical devices, smartphones, computers, laptops, and any other internet-capable or network-connected devices that may serve as control hubs, data sources, or endpoints within IoT ecosystems.
+An Internet of Things (IoT) device is a physical object embedded with sensors, software, network connectivity, or other technologies that allow it to connect to the internet or other communication networks. These devices can communicate, exchange data, or be remotely controlled autonomously or semi-autonomously. The category includes, but is not limited to, smart home appliances, sensors, wearables, medical devices, smartphones, computers, laptops, gaming consoles, industrial equipment, and any network-enabled objects that serve as control hubs, data sources, or endpoints within IoT ecosystems.
 
 Present the analysis in the following table format with these columns:
 
 - Product Entry
-- Corrected Name (in format: company name + product official name [brand + specifier] + model number/generation/year)
+- Corrected Name (in format: company name + product official name brand/specifier + model number/generation/year)
 - Correctly Written (Yes/No)
 - Reason for Incorrectness (if any)
 - Is IoT Device (Yes/No)
-- Notes (optional explanation)
+- Notes (optional explanations)
 
 Example product entry:
 
