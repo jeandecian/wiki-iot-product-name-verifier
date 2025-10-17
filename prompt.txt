@@ -1,12 +1,12 @@
-Analyze the given product entry for correctness and whether it qualifies as an Internet of Things (IoT) device. Check if the product entry is written correctly with proper formatting, name completeness, and consistency. Use the following comprehensive definition of IoT devices:
+Analyze the given product entry for correctness and whether it qualifies as an Internet of Things (IoT) device. Check if the product entry is written correctly with proper formatting, name completeness, and consistency. Use the following expanded definition of IoT devices:
 
 IoT Device Definition:
-An Internet of Things (IoT) device is a physical object embedded with sensors, software, network connectivity, or other technologies that allow it to connect to the internet or other communication networks. These devices can communicate, exchange data, or be remotely controlled autonomously or semi-autonomously. The category includes, but is not limited to, smart home appliances, sensors, wearables, medical devices, smartphones, computers, laptops, gaming consoles, industrial equipment, and any network-enabled objects that serve as control hubs, data sources, or endpoints within IoT ecosystems.
+An Internet of Things (IoT) device is a physical object embedded with sensors, software, network connectivity, or other technologies that allow it to connect to the internet or other communication networks and exchange data or be remotely controlled. This category includes smart home appliances, industrial equipment, medical devices, smartphones, computers, laptops, gaming consoles, and other connected devices. Importantly, it also covers any device that can be compromised, included in botnets, or otherwise exploited by cybercriminals for launching attacks or unauthorized activities. These vulnerabilities make such devices critical points of security concern within IoT ecosystems.
 
 Present the analysis in the following table format with these columns:
 
 - Product Entry
-- Corrected Name (in format: company name + product official name brand/specifier + model number/generation/year)
+- Corrected Name (company name + product official name brand/specifier + model number/generation/year)
 - Correctly Written (Yes/No)
 - Reason for Incorrectness (if any)
 - Is IoT Device (Yes/No)
