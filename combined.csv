@@ -76,12 +76,11 @@ Apple AirTag
 Apple HomeKit
 Apple HomePod
 Apple HomePod Mini
+Apple iPad (3rd generation)
 Apple iPad 10
 Apple iPad 2024pro
-"Apple iPad 3 (aka. ""The New iPad"")"
 Apple iPad 5
 Apple Ipad 9
-Apple iPad Air
 "Apple iPad Air (1st Gen, 2013)"
 "Apple iPad Air 2 (2nd Gen, 2014)"
 "Apple iPad Air 3 (3rd Gen, 2019)"
@@ -89,10 +88,10 @@ Apple iPad Air
 "Apple iPad Air 5 (5th Gen, 2022)"
 "Apple iPad Air 6 (6th Gen, 2024)"
 Apple iPad Air 7
-Apple iPad mini (2025)
 Apple iPad mini 4
 Apple iPad mini 5
 Apple iPad mini 6
+Apple iPad mini 7 (2024)
 Apple iPad Pro (3rd generation)
 "Apple iPad Pro (6th generation, 2022)"
 "Apple iPad Pro (8th generation, 2025)"
@@ -207,6 +206,7 @@ Arlo Pro 5S 2K Camera
 Arlo Ultra 2
 Astell&Kern A&norma SR35
 Astell&Kern AK Jr
+ASUS B650M-AYW WiFi
 ASUS Chromebit CS10
 ASUS Chromebook C201
 ASUS Chromebook C223
@@ -214,9 +214,11 @@ ASUS Eee PC 701 4G
 ASUS ExpertBook PX463CVA
 ASUS H610M-AYW
 ASUS H610M-K
+ASUS PRIME B550M-K
 ASUS PRIME B650M-K
 ASUS PRIME B760M-AYW
 ASUS PRIME B760M-K
+ASUS PRIME H610M-K
 ASUS ROG Dragon Scale ACE
 ASUS ROG Flow X13 (2022) GV301
 ASUS ROG Flow X13 (2023) GV302
@@ -285,9 +287,7 @@ Axis F44 Main Unit
 Axon 40 Ultra
 Axon 50 Ultra
 Axon 60 Ultra
-B550M-K
-B650M-AYW
-Bamboo Earphones「惊鸿」2025
+Bamboo Forest Bird Jinghong Z3
 Bang & Olufsen Beoplay EX
 Bang & Olufsen Beoplay H100
 Bang & Olufsen Beoplay Portal PC PS
@@ -444,8 +444,7 @@ Drug Infusion Pump
 DUNU Kima 2
 Dyson Pure Hot+Cool Smart Air Purifier HP07
 Dyson V15 Detect Absolute
-Easyfone Prime - A6
-Echo Dot 5th Gen
+Easyfone Prime-A6 4G Unlocked Feature Cell Phone
 Ecobee Smart Thermostat
 Ecobee Smart Thermostat Premium
 Ecobee Smart Thermostat Premium (2023)
@@ -457,7 +456,6 @@ Edifier Lolli3 ANC
 Edifier NeoBuds Plus 6.0
 Edifier W820NB
 Elgato Stream Deck MK.2
-Embedded Serial Port Networking Module C2000 E1S0
 EOS R5 Mark II
 Epson EB-L890E
 Epson EcoTank ET-2850
@@ -484,7 +482,7 @@ Fairphone 4
 Fairphone 5
 Fairphone 6
 FiiO M3 Pro
-FILCO Majestouch Convertible 2
+FILCO Majestouch Convertible 2 Mechanical Keyboard
 Fitbit Ace
 Fitbit Charge 5
 Fitbit Inspire 2
@@ -583,7 +581,6 @@ GPD Pocket
 GPD Pocket 2
 GPD Win 3
 GPD Win Max 2
-H610M-K
 HackRF One PortaPack H2+
 Haier Smart Refrigerator (BCD-600WGHSS17B8U1)
 Harman Kardon Allure Essential
@@ -1049,7 +1046,7 @@ M5Stack Cardputer
 Macbook Pro M1 13.3
 Maimai dx
 Marshall Acton II
-Marshall Uxbridge voice
+Marshall Uxbridge Voice Smart Speaker
 Mechrevo Aurora X
 MECHREVO F6
 Mechrevo Flood Dragon 16 Pro
@@ -1367,13 +1364,13 @@ Philips Hue Bridge 2.1
 Philips Hue Bridge v2
 Philips Hue Bulb
 Philips Hue Motion Sensor
-Philips Hue Secure Camera (2023)
+Philips Hue Secure Camera
 Philips Hue Secure wired camera
 Philips Hue Smart Hub
 Philips Hue White and Color Ambiance A19
 Philips Hue White and Color Ambiance A19 Bulb
 Philips Hue White and Color Ambiance Starter Kit (E26)
-Picun F5 ANC
+Picun F5 ANC Wireless Headphones
 Pine64 Pinecil V2 Smart Portable Mini Soldering Iron
 Pine64 PinePhone Pro
 "Pine64 PineTab 1 (10.1"" Linux Tablet) 2019"
@@ -1389,10 +1386,10 @@ Purism Librem 11
 Purism Librem 14
 Qualcomm MDM9206 LTE IoT Modem Chip
 Qualcomm QCC730 Wi-Fi Chip
-Questyle M15
+Questyle M15 Mobile DAC/Headphone Amp
 Rabbit r1
 Rachio 3 Smart Sprinkler Controller 8ZULW-C
-Radxa Rock 5 ITX
+Radxa Rock 5 ITX Single-Board Computer
 Rakuten Kobo Elipsa 2E
 Raspberry Pi 3
 Raspberry Pi 4
@@ -1464,7 +1461,6 @@ ROG Zephyrus G14 (2025) GA403
 Roku TV
 Rose Technics QT-9 MK3
 RoseFinch7100 Chip
-Samsung 32英寸 G85NB 曲面Mini LED电竞显示器
 Samsung Galaxy A12
 Samsung Galaxy A25 5G
 Samsung Galaxy A26
@@ -1534,7 +1530,8 @@ Samsung Galaxy Z Flip 5 (SM-F731N)
 Samsung Galaxy Z Flip 6
 Samsung Galaxy Z Flip 7
 Samsung Galaxy Z Fold 7
-Samsung Neo QLED 8KTV QN900F(2025)
+Samsung Neo QLED 8K TV QN900F (2025 Model)
+Samsung Odyssey Neo G8 G85NB 32-inch Curved Mini LED Gaming Monitor
 Samsung QN90B Neo QLED 4K Smart TV
 Samsung QN90C 65-inch Neo QLED 4K Smart TV
 Samsung rf24bb660e2mef Refrigerator
@@ -1547,9 +1544,9 @@ Samsung SmartThings Hub (3rd Generation)
 Samsung SmartThings Station
 Samsung SmartThings Station (2023)
 Samusing SmartThings Hub V3
-Saramonic UWMIC9
-SC256HIOT Image Sensor
-SC630HIOT Image Sensor
+Saramonic UwMic9 Wireless Lavalier Microphone System
+SC256HIOT Image Sensor (Smart CMOS Image Sensor)
+SC630HIOT Image Sensor (Smart CMOS Image Sensor)
 Schiit Audio Magni 3
 Schlage Encode Smart WiFi Deadbolt
 SENNHEISER MOMENTUM
@@ -1673,6 +1670,7 @@ Tesla Model Y
 "Tesla Model Y (2025 refresh, “Juniper”)"
 Tesla Model Y 7-Seat Version
 Tesla Wall Connector Gen 3 Wi-Fi (2023)
+Texas Instruments C2000 Embedded Serial Port Networking Module E1S0
 Tidbyt
 Tile Mate Bluetooth Tracker (2022 model)
 TOTO Neorest NX2
@@ -1691,9 +1689,6 @@ TP-Link Kasa Smart Plug KP115
 TP-Link LED Bulb LB130
 TP-Link Omada ER605 Router
 TP-Link Tapo C100
-TP-Link Tapo C200
-TP-Link Tapo C200 Pan/Tilt Home Security Wi-Fi Camera
-TP-Link Tapo C200 Smart Camera
 TP-Link Tapo C500
 TP-Link Tapo H100 Smart Hub with Chime
 TP-Link Tapo H200 V1 Smart Hub
