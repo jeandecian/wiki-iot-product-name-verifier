@@ -112,6 +112,11 @@ combined_df = pd.DataFrame(
 )
 combined_df.to_csv("combined.csv", index=False)
 
+normalized = combined_df["Product"].str.lower().str.strip()
+duplicated_mask = normalized.duplicated(keep=False)
+duplicated_df = combined_df[duplicated_mask]
+duplicated_df.to_csv("duplicated.csv", index=False)
+
 modified_products = [name.split(" (diff")[0] for name in get_modified_products()]
 modified_products = sort_products(
     [name for name in modified_products if name in verified_products]
@@ -125,5 +130,6 @@ dataframes = {
     "unapproved.csv": unapproved_df,
     "unverified.csv": unverified_df,
     "modified.csv": modified_df,
+    "duplicated.csv": duplicated_df,
 }
 update_readme_table(dataframes)
