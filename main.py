@@ -20,7 +20,11 @@ def get_products(limit=500, offset=0, show="all"):
 
     soup = BeautifulSoup(page, "html.parser")
     products = []
-    for tag in soup.find("ol", class_="special").find_all("li"):
+    products_list = soup.find("ol", class_="special")
+    if not products_list:
+        return products
+
+    for tag in products_list.find_all("li"):
         text = tag.text
         text = text.split(" (revision")[0]
 
