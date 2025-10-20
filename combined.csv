@@ -77,7 +77,6 @@ Apple HomePod
 Apple HomePod Mini
 Apple iPad (3rd generation)
 Apple iPad 10
-Apple iPad 2024pro
 Apple iPad 5
 Apple Ipad 9
 "Apple iPad Air (1st Gen, 2013)"
@@ -94,14 +93,12 @@ Apple iPad mini 7 (2024)
 Apple iPad Pro (3rd generation)
 "Apple iPad Pro (6th generation, 2022)"
 "Apple iPad Pro (8th generation, 2025)"
-Apple iPad Pro (M4)
 "Apple iPad Pro 11-inch (1st Gen, 2018)"
 "Apple iPad Pro 11-inch (2nd Gen, 2020)"
 "Apple iPad Pro 11-inch (3rd Gen, 2021)"
 "Apple iPad Pro 12.9-inch (4th Gen, 2020)"
 "Apple iPad Pro 12.9-inch (5th Gen, 2021)"
-"Apple iPad Pro 13-inch (M4 chip, 2024)"
-Apple iPad Pro 13‑inch (M4)
+"Apple iPad Pro 13-inch (M4, 2024)"
 Apple iPhone 11
 Apple iPhone 11 Pro
 Apple iPhone 11 Pro Max
@@ -212,12 +209,13 @@ ASUS Chromebook C201
 ASUS Chromebook C223
 ASUS Eee PC 701 4G
 ASUS ExpertBook PX463CVA
-ASUS H610M-AYW
 ASUS PRIME B550M-K
 ASUS PRIME B650M-K
 ASUS PRIME B760M-AYW
 ASUS PRIME B760M-K
 ASUS PRIME H610M-K
+ASUS ROG Ally (2024)
+ASUS ROG Crosshair X870E Extreme
 ASUS ROG Dragon Scale ACE
 ASUS ROG Flow X13 (2022) GV301
 ASUS ROG Flow X13 (2023) GV302
@@ -242,6 +240,8 @@ ASUS ROG Strix Scar 9 (G814FP9955-0EAGXHB8X20)
 ASUS ROG Strix Scar 9 Plus (G814FP9955-0EAGXHB8X20)
 ASUS ROG Strix XG248QSG Ace
 ASUS ROG Zephyrus G14
+ASUS ROG Zephyrus G14 (2025)
+ASUS ROG Zephyrus G14 GA403 (2025)
 ASUS ROG Zephyrus G16 (2023) GU603
 ASUS ROG Zephyrus G16 Air (GA605)
 ASUS TUF Gaming A15
@@ -748,7 +748,7 @@ HUAWEI Mate X6
 HUAWEI Mate XT
 HUAWEI Mate XTs Smartphone
 HUAWEI Mate XTs﻿ Special Edition
-HUAWEI Matebook 14
+HUAWEI MateBook 14
 HUAWEI MateBook 16s
 HUAWEI MateBook D 14 (2019)
 HUAWEI MateBook D 14 (2020)
@@ -845,13 +845,13 @@ HUAWEI WATCH 4
 HUAWEI Watch 4 Pro
 HUAWEI Watch B9-D10 KV
 HUAWEI WATCH Buds
-HUAWEI WATCH D2
+HUAWEI WATCH D2 Smartwatch
 Huawei Watch GT 3
 HUAWEI Watch GT 4
 HUAWEI Watch GT 5 Pro
 HUAWEI WATCH GT 6
 HUAWEI WATCH GT 6 Pro
-HUAWEI WATCH GT Runner​
+HUAWEI WATCH GT Runner
 HUAWEI WATCH GT5
 HUAWEI Watch Kids 4 Pro
 HUAWEI Watch Ultimate
@@ -967,7 +967,6 @@ Lenovo Xiaoxin Air 13 Plus (ACN 2021)
 Lenovo Xiaoxin Pad Pro 2021
 Lenovo Xiaoxin Pro 14
 Lenovo Xiaoxin Pro 16
-Lenovo y9000p
 Lenovo Yoga 14s
 "Lenovo Yoga AIO 9i (Gen 8, 32"")"
 Levoit Classic 36-Inch Smart Tower Fan
@@ -1139,7 +1138,6 @@ Nintendo New 3DS
 Nintendo New 3DS XL
 Nintendo Switch
 Nintendo Switch 2
-Nintendo Switch 2 OLED
 Nintendo Switch HACXXX
 Nintendo Switch Lite
 Nintendo Switch OLED
@@ -1423,14 +1421,8 @@ Ring Video Doorbell 4
 Ring Video Doorbell Pro 2
 Roborock Q5 Max
 Roborock Q8 Max Camera
-ROG Ally(2024)
-ROG CROSSHAIR X870E EXTREME
-ROG Delta S Core Gaming Headset
 ROG Phone 8
 ROG Phone 8 Pro Edition
-ROG STRIX G15 ADVANTAGE EDITION
-ROG Zephyrus G14 (2025)
-ROG Zephyrus G14 (2025) GA403
 Roku TV
 RoseFinch7100 NB-IoT Chip
 Samsung Galaxy A12
@@ -1513,9 +1505,7 @@ Samsung S22
 Samsung SHP-DR718
 Samsung SmartThings Hub (2nd Generation)
 Samsung SmartThings Hub (3rd Generation)
-Samsung SmartThings Station
 Samsung SmartThings Station (2023)
-Samusing SmartThings Hub V3
 Saramonic UwMic9 Wireless Lavalier Microphone System
 SC256HIOT Image Sensor (Smart CMOS Image Sensor)
 SC630HIOT Image Sensor (Smart CMOS Image Sensor)
@@ -1613,7 +1603,6 @@ STM32 NUCLEO-L476RG
 Suunto 9 Peak
 Suunto 9 Peak Pro GPS Multisport Watch
 Swann Motion Sensor Alarm
-Switch
 Syscom Instrument Velocity Sensor MS2003+
 Tchibo Cafissimo XS Circle Connect
 TCL T7K
