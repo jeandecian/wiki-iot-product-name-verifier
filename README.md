@@ -5,10 +5,10 @@
 <!-- TABLE_START -->
 | CSV File       | Number of Products |
 | -------------- | ------------------ |
-| combined.csv   | 2013               |
-| verified.csv   | 1666               |
-| unapproved.csv | 40                 |
-| unverified.csv | 307                |
-| modified.csv   | 186                |
+| combined.csv   | 2008               |
+| verified.csv   | 1665               |
+| unapproved.csv | 26                 |
+| unverified.csv | 317                |
+| modified.csv   | 185                |
 | duplicated.csv | 0                  |
 <!-- TABLE_END -->
