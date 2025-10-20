@@ -158,6 +158,7 @@ Apple iPod touch 7
 "Apple MacBook Air (M1, 2021)"
 "Apple MacBook Air (M2, 2022)"
 "Apple MacBook Air (M3, 2023)"
+Apple MacBook Pro 13.3-inch (M1)
 "Apple MacBook Pro 14-inch (M1 Pro, 2021)"
 "Apple MacBook Pro 14-inch (M3, 2023)"
 Apple MacBook Pro 14-inch (M4 Pro)
@@ -306,7 +307,6 @@ BlackBerry KEYone
 BlackBerry Nevada
 BlackBerry Passport
 BlackBerry QNX
-Blackmagic Pocket Cinema Camera 6K G2
 Blink Indoor
 Blink Mini
 Blink Outdoor 2
@@ -331,7 +331,7 @@ Bose Frames Tenor
 Bose Home Speaker 500
 Bose Noise Cancelling Headphones 700
 Bose QuietComfort
-Bose QuietComfort 45
+Bose QuietComfort 45 Wireless Headphones
 Bose QuietComfort Ultra
 Bose QuietComfort Ultra Headphones
 Bose Smart Ultra Soundbar
@@ -341,7 +341,7 @@ Bose SoundLink Micro
 Bose SoundLink Plus
 Bose SoundTouch 300 Soundbar
 Bose Surround Speakers 700
-Bose TV Speaker
+Bose TV Speaker (Soundbar for TV)
 Bowers & Wilkins PI8
 Bowers & Wilkins Zeppelin Pro Edition
 Brazen Connected Brewer GRT20C01CMC
@@ -356,13 +356,11 @@ Canon EOS R5
 Canon EOS R50
 Canon PIXMA TR160
 Car Kit Raspberry
-Cayin N3 Pro
 CAZON Blood Pressure Monitor
 Chamelo Aura Rx Smart Color-Changing Glasses
 Chevrolet Malibu 2013 1.6T Sedan
 Chromecast TV Google
 Chumby One
-Chunithm
 Chuwi LarkBox
 Cisco ASR 9902
 Cisco Small Business RV016
@@ -386,7 +384,7 @@ D-Link DCS-930L
 D-Link DIR-822 Router
 D-Link DIR-825 Router
 D-Link GO-RT-AC750 Router
-Dbell HD
+Dbell HD+ Wi-Fi Video Doorbell
 DeaPad 3
 DELL G 15
 Dell G16
@@ -403,6 +401,7 @@ Dell XPS 13 9310
 Dell XPS 14
 Dell XPS 16
 Denza N9
+Digital Dream Labs Vector 2.0 AI Robot
 DJI Air 3
 DJI Air 3S
 DJI Avata 2
@@ -445,7 +444,7 @@ Ecobee Smart Thermostat
 Ecobee Smart Thermostat Premium
 Ecobee Smart Thermostat Premium (2023)
 Ecobee SmartThermostat with Voice Control
-Ecobee3 lite
+Ecobee3 lite Smart Thermostat
 EcoTherm Smart Thermostat X200
 Edifier Comfo Q
 Edifier Lolli3 ANC
@@ -501,8 +500,6 @@ Framework Laptop 13 (2021)
 Framework Laptop 13 (2023)
 Framework Laptop 13 (2025)
 Framework Laptop 16 Expansion Bay
-FUJIFILM X half
-FUJIFILM X-E5
 G1 Bluetooth Smart IoT Gateway
 Garmin Fenix 7
 Garmin Fenix 7 Pro
@@ -702,7 +699,7 @@ HUAWEI Enjoy 70X
 HUAWEI Enjoy 80
 HUAWEI Fit 2
 HUAWEI free buds5
-HUAWEI FreeArc 耳挂耳机
+HUAWEI FreeArc Ear-hook Earphones
 HUAWEI FreeBuds 3
 Huawei FreeBuds 4
 HUAWEI FreeBuds 4i
@@ -717,9 +714,9 @@ Huawei FreeBuds Pro 4
 Huawei FreeBuds SE 2
 Huawei FreeBuds SE 3
 Huawei FreeBuds SE 4 ANC
-HUAWEI FreeClip 2
+HUAWEI FreeClip 2 Wireless Earphones
 HUAWEI FreeClip Earclip Earphones
-HUAWEI freeclip earphone
+HUAWEI FreeClip Wireless Earphones
 HUAWEI Luxeed S7
 HUAWEI Mate 10
 HUAWEI Mate 10 Pro
@@ -744,15 +741,13 @@ Huawei Mate 70 RS Porsche Design
 HUAWEI Mate 8
 HUAWEI Mate 9
 HUAWEI Mate 9 Pro
-HUAWEI Mate Pad SE
 HUAWEI Mate X3
 HUAWEI Mate X4
 HUAWEI Mate X5
 HUAWEI Mate X6
 HUAWEI Mate XT
-HUAWEI Mate XTs
-HUAWEI Mate XTs 非凡大师
-HUAWEI Mate XTs非凡大师
+HUAWEI Mate XTs Smartphone
+HUAWEI Mate XTs﻿ Special Edition
 HUAWEI Matebook 14
 HUAWEI MateBook 16s
 HUAWEI MateBook D 14 (2019)
@@ -783,6 +778,7 @@ HUAWEI MatePad Pro 12.2 2025
 HUAWEI MatePad Pro 12.2 Inch
 HUAWEI MatePad Pro 12.2inch
 HUAWEI MatePad SE
+HUAWEI MatePad SE Tablet
 HUAWEI MatePadPro 12.2
 HUAWEI MatePadPro 13.2
 HUAWEI MateStation X
@@ -900,8 +896,7 @@ JBL Charge 5
 JBL Charge 7 Portable Bluetooth Speaker
 JBL Everest 310
 JBL Flip 5
-JBL Flip 6 Portable Waterproof Bluetooth Speaker
-JBL FLIP6
+JBL Flip 6
 JBL Wave Beam
 JBL Wave Beam 2 True Wireless Noise Cancelling Earbuds
 JOOAN 8CH 1080P IP Camera
@@ -974,13 +969,12 @@ Lenovo Xiaoxin Pro 14
 Lenovo Xiaoxin Pro 16
 Lenovo y9000p
 Lenovo Yoga 14s
-Lenovo Yoga AIO 9i
+"Lenovo Yoga AIO 9i (Gen 8, 32"")"
 Levoit Classic 36-Inch Smart Tower Fan
 Levoit Classic Pro Smart Tower Fan
 Levoit Core 200S
 Levoit Core 300S
 Levoit Core 600S
-Levoit Ever Estair
 Levoit EverestAir Smart Air Purifier
 Levoit PlasmaPro 400S
 Levoit Vital 100S-P
@@ -1007,7 +1001,7 @@ Light Phone II
 LittleSwan TG100V62WDSP5 Washing Machine
 Lockin S50 Pro
 Logitech Circle 2
-Logitech G PRO X SUPERLIGHT Wireless Gaming Mouse
+Logitech G PRO X SUPERLIGHT
 Logitech G304
 Logitech G305 LIGHTSPEED Wireless Gaming Mouse
 Logitech G309 LIGHTSPEED Wireless Gaming Mouse
@@ -1015,20 +1009,18 @@ Logitech G535 LIGHTSPEED Wireless Gaming Headset
 Logitech Lift Vertical Ergonomic Mouse
 Logitech M240 Silent Bluetooth Mouse
 Logitech M720 Triathlon Wireless Optical Mouse
-Logitech MX Anywhere 3S
+Logitech MX Anywhere 3S Wireless Bluetooth Mouse
 Logitech MX Ergo S Wireless Trackball Mouse
 Logitech MX Master 2S Bluetooth Laser Mouse
 Logitech MX Master 3S Wireless Mouse
 Logitech MX Master 5 Wireless Mouse
-Logitech pro x superlight
 Logitech PRO X SUPERLIGHT 2
-Logitech Signature M650
+Logitech Signature M650 Wireless Bluetooth Mouse
 Lotus Eletre
 Lutron Caseta Wireless Smart Dimmer PD-6WCL
 Lynk & Co Z10
 Lynk & Co Z20
 M5Stack Cardputer
-Macbook Pro M1 13.3
 Maimai dx
 Marshall Acton II
 Marshall Uxbridge Voice Smart Speaker
@@ -1440,8 +1432,7 @@ ROG STRIX G15 ADVANTAGE EDITION
 ROG Zephyrus G14 (2025)
 ROG Zephyrus G14 (2025) GA403
 Roku TV
-Rose Technics QT-9 MK3
-RoseFinch7100 Chip
+RoseFinch7100 NB-IoT Chip
 Samsung Galaxy A12
 Samsung Galaxy A25 5G
 Samsung Galaxy A26
@@ -1528,11 +1519,7 @@ Samusing SmartThings Hub V3
 Saramonic UwMic9 Wireless Lavalier Microphone System
 SC256HIOT Image Sensor (Smart CMOS Image Sensor)
 SC630HIOT Image Sensor (Smart CMOS Image Sensor)
-Schiit Audio Magni 3
 Schlage Encode Smart WiFi Deadbolt
-SENNHEISER MOMENTUM
-Sennheiser Momentum 1
-Sennheiser Momentum 2
 Sennheiser Momentum 3
 Sennheiser Momentum 4
 Sequans Monarch SX
@@ -1644,7 +1631,7 @@ Tesla Model S
 Tesla Model X
 Tesla Model X Plaid
 Tesla Model Y
-"Tesla Model Y (2025 refresh, “Juniper”)"
+Tesla Model Y 2025 Refresh (Juniper)
 Tesla Model Y 7-Seat Version
 Tesla Wall Connector Gen 3 Wi-Fi (2023)
 Texas Instruments C2000 Embedded Serial Port Networking Module E1S0
@@ -1671,15 +1658,14 @@ TP-Link Tapo H100 Smart Hub with Chime
 TP-Link Tapo H200 V1 Smart Hub
 TP-Link TL-WR1001P 10A Wi-Fi Router
 TP-Link TL-WR940N Router
-Tuya Smart Plug (Generic Wi-Fi Plug)
+Tuya Smart Plug (Generic Wi-Fi Smart Plug)
 Unbranded Portable Patient Monitor
 UNICEF Blood refrigeration units
 Unihertz Atom
 Unihertz Jelly 2
 UNISOC W217 Smart Wearable Chip
 Universal Robot UR20
-Valve Steam Deck OLED
-Vector 2.0 Robot by DDL
+Valve Steam Deck OLED Model
 VGN Dragonfly F1 SE
 VGN Dragonfly F2
 VGN Feilong Y2 Pro
